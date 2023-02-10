@@ -4,7 +4,7 @@
 ! Expires: 12 hours
 ! Version: 202302100206
 ! Last Modified: 2023年02月10日 02:06
-! Homepage: https://
+! Homepage: https://ghproxy.com/https://raw.githubusercontent.com/kuge2010/AD/main/custom.txt
 ! Start
 |maidagu.com^
 |meituan.xn--3bs795g.fit:4443*
