@@ -361,7 +361,7 @@ www.hktv02.com###home_slide
 ||pint.huizhoumi.com^
 326t.com##.dropdown
 326t.com##[href="/gbook.html"]
-|https://hnrtg.mryshl.com/k/132659
+|*/k/132659
 326t.com##[href="/list/6.html"]
 |*/static/js/xs2.js
 |*/static/js/xs.js
@@ -369,13 +369,14 @@ www.hktv02.com###home_slide
 |*/static/gdw.js
 |*/static/edu.js
 |*/static/xs.js
-heihu.tv##[href="/list/40.html"]
-|http://heihu.tv/static/xs2.js
-|http://heihu.tv/static/foot.js
-|http://heihu.tv/static/playcon.js
-heihu.tv##[href="https://mxn.qqzbabc07.com/ysz3.html"]
-heihu.tv##[href="javascript:void(0)"]
-heihu.tv##.stui-pannel stui-pannel-bg clearfix
+##[href="/list/40.html"]
+|*/static/xs2.js
+|*/static/foot.js
+|*/static/playcon.js
+##[href="https://mxn.qqzbabc07.com/ysz3.html"]
+##[href="http://parse.chexin.cc/index.html"]
+##[href="javascript:void(0)"]
+##.stui-pannel stui-pannel-bg clearfix
 m.toutiao.com##DIV.float-activate-button-container
 view.inews.qq.com##DIV.normal_buttonWrap__3xBdo
 3g.163.com##SECTION.main-openApp.js-open-app
