@@ -1,161 +1,31 @@
-[Adblock Plus 2.0]
-! Checksum: NighibZZY/J8oZ1JmzjAHQ
-! Title: My AdFilters（for ipad）
-! Expires: 12 hours
-! Version: 202302100206
-! Last Modified: 2023年02月10日 02:06
-! Homepage: https://ghproxy.com/https://raw.githubusercontent.com/kuge2010/AD/main/custom.txt
-! Start
-|maidagu.com^
-|meituan.xn--3bs795g.fit:4443*
-.net/ad/$image
-/template/*/ads/*
-xhkan.com##.notes
-xhkan.com##[href="/go.html"]
-m.guancha.cn##DIV.g_header44
-m.guancha.cn##DIV.g_swiper_container
-kl.sanxiucaiwu.top
-hpl.tyjnwg.top
-cduoduo.top/adverts-MjAsMg==.js
-www.guojuren.com##DIV.downbfq.hidden-sm.hidden-md.hidden-lg
-v.qq.com##.txp_top_btns,.txp-watermark
-youku.com##.youku-layer-logo
-m.baidu.com##.html-attribute-value html-resource-link
-m.baidu.com##.hint-ft-questionnaire
-m.baidu.com##FORM#se-form2
-m.baidu.com##DIV#footer-wrap
-m.baidu.com##.results-pre,.se-results-pre
-baijiahao.baidu.com##.undefined
-baijiahao.baidu.com##DIV.bottomTTSStruct.contentPadding
-||hgb.cqwzjx.cn^
-||app-bstqka.xzrjsoft.com^
-||cdn.viccscxz.cn^
-||cdn.wuxiqiangheng.com^
-||1657514.com^
-||2529212.com^
-||b843.27fys.xyz^
-||xqc23.jnyayk.xyz^
-||m87uy.6im9ovc.site^
-||frh.jnzhongding.cn^
-iqiyi.com##.iqp-logo-box,.iqp-dock
-||hnr.zhouwutrip.cn^
-||lkr.autotrading.com.cn^
-||afrazanna.com^
-||pm.qijpaih.cn^
-||lm-yueai3.com^
-||qj202.cc^
-||kmg.fshanys-vip.top^
-||ns-strategy.cdn.bcebos.com^
-||bj.bcebos.com^
-||pm.fyesqma.cn^
-||img30.360buyimg.com^
-m.tianqi.com##DIV.yinliu_app
-||btg.auogiv.cn^
-||ktp.ywak.com.cn^
-||tgr.ygqjt.cn^
-||okm.xjqzh.cn^
-||mjr.zqslg.cn^
-||kmr.yvfnb.cn^
-||mfe.paqpq.com^
-||kry.jknrwe.cn^
-||jjjak.com^
-||xg.hfawdgz.cn^
-||xc.wagzqhq.cn^
-||pn.qhicumg.cn^
-||omr.ttyy.cn^
-||m.fenggoudy3.com/Runtime/Js/mob_top.js
-||m.fenggoudy3.com/Runtime/Js/google_mob.js
-m.fenggoudy3.com##.text-center.ff-footer.ff-bg.container
-m.fenggoudy3.com##.ff-row.news-item-ul
-m.fenggoudy3.com##.vod-like.ff-row.list-unstyled
-m.fenggoudy3.com##div.ff-clearfix
-m.fenggoudy3.com##.vod-type.ff-row.list-unstyled
-m.fenggoudy3.com##div.ff-bg.container:nth-of-type(11)
-m.fenggoudy3.com##div.ff-bg.container:nth-of-type(13)
-m.fenggoudy3.com##div.ff-bg.container:nth-of-type(15)
-||krt.zhengxiaoliu.top^
-||mg.42yenxh.cn^
-||mhk.huishunhang.net^
-||kme.dncvj.cn^
-||nbk.lm553.com^
-||kntb.sglyd.cn^
-||cdn.bootcss.com^
-||s.pc.qq.com^
-||percent.pfiparts.com^
-||bfitmed.com^
-||sx.lxqwed.top^
-||img.jiaoqu.cc^
-||www.whlm.cc^
-||mkt.zihuiguochao.top^
-www.8hysw.com##DIV.container>.row>.stui-pannel.stui-pannel-bg.clearfix>.stui-pannel-box>.stui-pannel_bd>.col-pd.clearfix
-www.8hysw.com##UL.stui-extra.clearfix
-www.8hysw.com###sponsorAdDiv
-||www.8hysw.com/js/bbk/p.js
-||tc.f77j6t2b.com^
-||hnt.tianvip.top^
-||fbt.xiaomilw.top^
-||mbr.baiyishaonian.cn^
-||tgu.hpiekt.cn^
-www.douyin.com##.login-mask-enter-done.screen-mask.mPWahmAI
-www.douyin.com##.JsAsIOEV
-www.douyin.com##.I6ivXmaS
-www.douyin.com###captcha_container
-||lop.lamimi.cn^
-||zxfhcl.com^
-||*/k/133938
-||mcc.rhwg4js.cn^
-www.hktv02.com##DIV.myui-content__operate
-www.hktv02.com##IMG#hth
-www.hktv02.com###rtyshonp_tj,#jgd_195
-www.hktv02.com##.myui-header__logo
-api.zhiduoduogx.com##DIV#ac_tips
-||vip.tvyb10.com/^
-||net.domain.name^
-||tg.grjasq.com^
-||kmt.fcqztan.cn^
-||api.qcmm07.com^
-www.hktv02.com##[href="/ky.html"]
-555dy7.com##.is_mb,#popup
-||kmr.ruoguqq.cn^
-||kme.ydgsvls.cn^
-www.hktv02.com##[href="/b1014.html"]
-||kmt.uqdxbpb.cn^
-||kmt.scvafs.cn^
-||tg.s4te24u.com^
-||kmt.yksrjci.cn^
-||oue.melbwgr.cn^
-||mnw.bxwccii.cn^
-||iner.mrflay.com^
-||lot.huiyanzhi.com^
-www.hktv02.com##.carousel-inner
-www.hktv02.com###home_slide
-||tg.gtlpaj.com^
-||tc.kjwjcq.com^
-||pint.huizhoumi.com^
-326t.com##.dropdown
-326t.com##[href="/gbook.html"]
-|https://hnrtg.mryshl.com/k/132659
-326t.com##[href="/list/6.html"]
-|*/static/js/xs2.js
-|*/static/js/xs.js
-|*/static/tixing.js
-|*/static/gdw.js
-|*/static/edu.js
-|*/static/xs.js
-heihu.tv##[href="/list/40.html"]
-|http://heihu.tv/static/xs2.js
-|http://heihu.tv/static/foot.js
-|http://heihu.tv/static/playcon.js
-heihu.tv##[href="https://mxn.qqzbabc07.com/ysz3.html"]
-heihu.tv##[href="javascript:void(0)"]
-heihu.tv##.stui-pannel stui-pannel-bg clearfix
-m.toutiao.com##DIV.float-activate-button-container
-view.inews.qq.com##DIV.normal_buttonWrap__3xBdo
-3g.163.com##SECTION.main-openApp.js-open-app
-news.sina.cn##DIV.ldy_art_bottom_button_box.j_callST
-cj.sina.cn##DIV.unfold-words
-mbd.baidu.com##DIV#hot-topic
-m.sohu.com##DIV#artFloatDiscuss
-3g.163.com##DIV.s-tip.js-open-app
-cj.sina.cn##SECTION.module-extend.module-lecai
-news.sina.cn##SPAN.art_img_callUp.j_callST
+! 知乎去登录提示
+www.zhihu.com##.css-1ynzxqw
+||static.zhihu.com/heifetz/chunks/3551.$script
+zhuanlan.zhihu.com##.css-1izy64v
+||static.zhihu.com/heifetz/chunks/7626.$script
+! B站去登录提示
+www.bilibili.com##.bili-mini-mask
+||hdslb.com/bfs/static/jinkela/long/js/sentry/$script,domain=~space.bilibili.com
+||hdslb.com/bfs/seed/jinkela/short/mini-login/$script
+! 去部分顶栏
+||hdslb.com/bfs/seed/laputa-header/bili-header.umd.js$script
+! YK去登录提示
+||g.alicdn.com/static-es6/login/pc/login/js/main_$script,important,domain=youku.com
+! CSDN去登录提示
+||g.csdnimg.cn/asdf/*/trackad.js|$script,important
+||csdnimg.cn/release/passport_fe/$script
+! 百毒去登录提示
+!wappass.baidu.com
+tieba.baidu.com##.tieba-custom-pass-login
+||passport.baidu.com/passApi/$script,domain=~fanyi.baidu.com
+||bcebos.com/passApi/js/login$script
+! 豆瓣去登录提示
+||doubanio.com/f/accounts/*/passport/$script
+||doubanio.com/dae/accounts/resources/$script
+! 抖音去登录提示
+||bytegoofy.com/obj/goofy/ies/douyin_web/async/LoginCheck.$script,domain=douyin.com
+||lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/LoginCheck.$script,domain=douyin.com
+||bytegoofy.com/obj/slardar/fe/sdk-web/plugins/blank-screen.$script,domain=douyin.com
+||ibytedapm.com/slardar/fe/sdk-web/plugins/blank-screen.$script,domain=douyin.com
+! 播放器内操作屏幕提示~好烦人
+www.douyin.com,live.douyin.com##.I6ivXmaS
