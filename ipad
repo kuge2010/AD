@@ -377,6 +377,8 @@ www.hktv02.com###home_slide
 ##[href="http://parse.chexin.cc/index.html"]
 ##[href="javascript:void(0)"]
 ##.stui-pannel stui-pannel-bg clearfix
+www.heihutv.com##.detail.stui-player__detail > div
+##.stui-pannel.stui-pannel-bg.clearfix > div[style]
 m.toutiao.com##DIV.float-activate-button-container
 view.inews.qq.com##DIV.normal_buttonWrap__3xBdo
 3g.163.com##SECTION.main-openApp.js-open-app
