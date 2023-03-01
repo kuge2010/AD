@@ -222,11 +222,11 @@ support.hp.com###chatbotToronto,.unstyled,.grecaptcha-logo,.grecaptcha-badge
 326t.com##[href="/list/6.html"]
 326t.com##div.clearfix.stui-pannel-bg.stui-pannel:nth-of-type(4)
 326t.com##.clearfix.stui-foot
-www.heihu.tv##div.hidden-xs.clearfix.stui-pannel-bg.stui-pannel > .clearfix.stui-pannel-box
-www.heihu.tv##.clearfix.hidden-xs.hidden-sm.stui-pannel-bg.stui-pannel > .stui-pannel-box
-www.heihu.tv##.clearfix.stui-foot
-www.heihu.tv##.layui-layer-dialog.layui-layer
-www.heihu.tv###layui-layer-shade1
+www.heihutv.com##div.hidden-xs.clearfix.stui-pannel-bg.stui-pannel > .clearfix.stui-pannel-box
+www.heihutv.com##.clearfix.hidden-xs.hidden-sm.stui-pannel-bg.stui-pannel > .stui-pannel-box
+www.heihutv.com##.clearfix.stui-foot
+www.heihutv.com##.layui-layer-dialog.layui-layer
+www.heihutv.com###layui-layer-shade1
 ||*/static/edu.js
 ||*/static/xs.js
 www.heihu.tv##[href="/list/40.html"]
@@ -393,5 +393,6 @@ news.sina.cn##SPAN.art_img_callUp.j_callST
 www.douyin.com,live.douyin.com##.I6ivXmaS
 ||live.douyin.com/service-worker.js$script
 ||gbner.oinlkwr.xyz^
-www.heihutv.com##DIV.carousel.carousel_center.col-pd.flickity-page.flickity-enabled.is-draggable
+##DIV.carousel.carousel_center.col-pd.flickity-page.flickity-enabled.is-draggable
 ##[href="https://gs.qqzbabc10.com/ysz3.html"]
+|*/vj1/132659
