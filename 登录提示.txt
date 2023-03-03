@@ -1,3 +1,4 @@
+! Title: My AdFilters（for 去登录提示）
 ! 知乎去登录提示
 www.zhihu.com##.css-1ynzxqw
 ||static.zhihu.com/heifetz/chunks/3551.$script
