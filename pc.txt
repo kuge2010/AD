@@ -152,7 +152,7 @@ www.douyin.com,live.douyin.com##.I6ivXmaS
 ||live.douyin.com/service-worker.js$script
 www.hktv02.com##[href="/ky.html"]
 www.hktv02.com##[href="https://jscdn.ssxmall.cn/TVB云播2.8.5.apk"]
-www.hktv02.com##.textblue,.myui-panel.radius-0.clearfix,div.clearfix.active.myui-panel:nth-of-type(1)
+www.hktv02.com##.textblue,.myui-panel.radius-0.clearfix
 support.hp.com###chatbotToronto,.unstyled,.grecaptcha-logo,.grecaptcha-badge
 ||*/static/tixing.js
 ||*/static/js/deny.js
