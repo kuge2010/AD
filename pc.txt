@@ -135,6 +135,7 @@ www.tianqi.com##.zhishubox.wrap1100
 ##[href="https://www.555dyy.top/"]
 ##[href="https://www.555app.cc/"]
 ##[href="/label/hot.html"]
+##[href="/label/topic.html"]
 ##div.c-gPKXm:nth-of-type(4)
 ##li.navbar-item.swiper-slide:nth-of-type(16)
 ||*.com:9999
@@ -184,9 +185,8 @@ support.hp.com###chatbotToronto,.unstyled,.grecaptcha-logo,.grecaptcha-badge
 ##.layui-layer-dialog.layui-layer
 ###layui-layer-shade1
 ##[href="/list/40.html"]
-##[href="https://mxn.qqzbabc07.com/ysz3.html"]
+##[href*="/ysz3.html"]
 ##[href="http://parse.chexin.cc/index.html"]
 ##.detail.stui-player__detail > div
 ##.stui-pannel.stui-pannel-bg.clearfix > div[style]
 ##DIV.carousel.carousel_center.col-pd.flickity-page.flickity-enabled.is-draggable
-##[href="https://gs.qqzbabc10.com/ysz3.html"]
