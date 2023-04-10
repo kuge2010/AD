@@ -1,4 +1,5 @@
 ! Title: My AdFilters（for mobile）
+@@||mimg.127.net/lib/fingerprintjs2/2.1.4/fingerprint2.min.js
 |maidagu.com^
 |meituan.xn--3bs795g.fit:4443*
 .net/ad/$image
