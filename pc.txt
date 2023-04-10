@@ -88,6 +88,7 @@ lofter.com##.w-pagelayer-reglogin2.w-pagelayer-reglogin.w-pagelayer
 163.com##.gWel-bottom
 auto.163.com##.mfap-expand
 163.com##.m-regGuideLayer f-trans js-show-regGuideLayer
+@@||mimg.127.net/lib/fingerprintjs2/2.1.4/fingerprint2.min.js
 sohu.com##.__mask.winbox-mask
 sohu.com##.G-browser
 tv.sohu.com##.player-login-tips,.x-screenshot-btn,.x-fox-btn
