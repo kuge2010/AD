@@ -183,7 +183,6 @@ support.hp.com###chatbotToronto,.unstyled,.grecaptcha-logo,.grecaptcha-badge
 ##.clearfix.hidden-xs.hidden-sm.stui-pannel-bg.stui-pannel>.stui-pannel-box
 ##.clearfix.stui-foot
 ##.is-draggable.flickity-enabled.flickity-page.col-pd.carousel_center.carousel
-##[href="/gbook.html"]
 ##[href="/list/6.html"]
 ##.clearfix.stui-foot
 ##.layui-layer-dialog.layui-layer
@@ -194,3 +193,5 @@ support.hp.com###chatbotToronto,.unstyled,.grecaptcha-logo,.grecaptcha-badge
 ##.detail.stui-player__detail > div
 ##.stui-pannel.stui-pannel-bg.clearfix > div[style]
 ##DIV.carousel.carousel_center.col-pd.flickity-page.flickity-enabled.is-draggable
+##[href*="/gbook."]
+||156.247.9.204^
