@@ -35,7 +35,6 @@ www.hktv02.com##DIV.myui-panel.radius-0.padding-0.clearfix
 www.hktv02.com##DIV#syad1,#syad2,.textred,DIV.textblue
 api.zhiduoduogx.com##DIV#ac_tips
 326t.com##.dropdown
-326t.com##[href="/gbook.html"]
 326t.com##[href="/list/6.html"]
 |*/static/js/xs2.js
 |*/static/js/xs.js
@@ -99,3 +98,5 @@ www.8hysw.com###sponsorAdDiv
 @@img.souche.com/*.jpg
 ||lbsugc.cdn.bcebos.com^
 ##.clearfix.hidden-xs.hidden-sm.stui-pannel-bg.stui-pannel>.stui-pannel-box
+##[href*="/gbook."]
+||156.247.9.204^
