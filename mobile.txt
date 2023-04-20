@@ -61,10 +61,11 @@ cj.sina.cn##SECTION.module-extend.module-lecai
 ##.stui-pannel.stui-pannel-bg.clearfix > div[style]
 ##DIV.carousel.carousel_center.col-pd.flickity-page.flickity-enabled.is-draggable
 ##[href*="/ysz3.html"]
-|*/vj1/132659
-|bmqsa.powfjnef.net/v2/stats/6695/132659
-||nmerf.qwoiejnkmq.net/vj1/133938
-||nmerf.qwoiejnkmq.net/v2/stats/7136/133938
+|*/vj1/*
+|*/v1/stats/*
+|*/vj2/*
+|*/v2/stats/*
+||mqsazx.qonkdwwf.net^
 |push.zhanzhang.baidu.com/push.js
 |tg.wmqfey.com/m/*
 www.xawqxh.net,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com##.popupShow.none.popup-tips.popup,DIV.fixedGroup
