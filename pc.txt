@@ -180,6 +180,13 @@ support.hp.com###chatbotToronto,.unstyled,.grecaptcha-logo,.grecaptcha-badge
 ||*/static/xs2.js
 ||*/static/playcon.js
 ||*/static/foot.js
+|*/k/133938
+|*/k/132659
+|*/vj1/*
+|*/v1/stats/*
+|*/vj2/*
+|*/v2/stats/*
+||mqsazx.qonkdwwf.net^
 ##.clearfix.hidden-xs.hidden-sm.stui-pannel-bg.stui-pannel>.stui-pannel-box
 ##.clearfix.stui-foot
 ##.is-draggable.flickity-enabled.flickity-page.col-pd.carousel_center.carousel
