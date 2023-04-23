@@ -45,7 +45,7 @@ api.zhiduoduogx.com##DIV#ac_tips
 |*/static/xs2.js
 |*/static/playcon.js
 |*/static/foot.js
-||*/k/133938
+|*/k/133938
 |*/k/132659
 m.toutiao.com##DIV.float-activate-button-container
 view.inews.qq.com##DIV.normal_buttonWrap__3xBdo
