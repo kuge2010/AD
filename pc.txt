@@ -57,7 +57,7 @@ http://s1.bdstatic.com/r/www/cache/static/sug/js/bdsug_9e276727.js
 |http://a.ikafan.com/attachment/forum/201312/21/132325xdicdd42rlfg39fb.png
 |http://a.ikafan.com/image/common/background.png
 bbs.kafan.cn##.ptn.xg2
-kafan.cn##.plm.plc
+bbs.kafan.cn##.pbn.cl.bm_c
 @@||firefoxfan.com^$document
 @@|http://exp.ktv.qq.com/?|$document
 4399.com###defaultbglink
@@ -130,7 +130,7 @@ pcbeta.com###wp > div[class][id]:not([class*="cl"])
 pcbeta.com##+js(aopr, Node.prototype.insertBefore)
 www.tianqi.com##.zhishubox.wrap1100
 555dy7.com,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com##.popupShow.none.popup-tips.popup,DIV.fixedGroup
-555dy7.com,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com##.is_pc,#popup,.footer
+555dy7.com,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com##.is_pc,#popup,.footer,.module-item-douban
 ##.c-gPKXm-hNPZdq-top-true.c-gPKXm,#mask,.c-kEupPs,.c-bcHxrT,.c-ghexqh,.c-hcWCi,.c-ilqoRP,.MuiBox-root.css-mgur8
 ##[href*=".cloudfront.net"]
 |*/bgad.png
@@ -143,7 +143,7 @@ www.tianqi.com##.zhishubox.wrap1100
 ##[href*=".com:9999"]
 ||sbb.bbb.*^
 ||*.meituan.net^
-|wh8.store/assets/plugin/jump/*
+|*/assets/plugin/jump/*
 |galotop1.com/javascript/*
 ||www.google-analytics.com^
 ||www.googletagmanager.com^
@@ -182,11 +182,14 @@ support.hp.com###chatbotToronto,.unstyled,.grecaptcha-logo,.grecaptcha-badge
 ||*/static/foot.js
 |*/k/133938
 |*/k/132659
+|*/k/133938
+|*/k/132659
 |*/vj1/*
 |*/v1/stats/*
 |*/vj2/*
 |*/v2/stats/*
 ||mqsazx.qonkdwwf.net^
+|push.zhanzhang.baidu.com/push.js
 ##.clearfix.hidden-xs.hidden-sm.stui-pannel-bg.stui-pannel>.stui-pannel-box
 ##.clearfix.stui-foot
 ##.is-draggable.flickity-enabled.flickity-page.col-pd.carousel_center.carousel
