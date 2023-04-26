@@ -22,8 +22,7 @@ baijiahao.baidu.com##DIV.bottomTTSStruct.contentPadding
 iqiyi.com##.iqp-logo-box,.iqp-dock
 m.tianqi.com##DIV.yinliu_app
 www.douyin.com##.login-mask-enter-done.screen-mask.mPWahmAI
-www.douyin.com##.JsAsIOEV
-www.douyin.com##.I6ivXmaS
+www.douyin.com##.zfoAilgt.mPWahmAI,.JsAsIOEV,.wallPaperBtn.nH4jBlTd,.text-clarity-new,.login-clarity-new-ff.login-clarity-new
 www.douyin.com###captcha_container
 www.douyin.com,live.douyin.com##.I6ivXmaS
 ||live.douyin.com/service-worker.js$script
@@ -89,15 +88,15 @@ www.xawqxh.net,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com##.is_mb,
 |galotop1.com/javascript/*
 ||www.google-analytics.com^
 ||www.googletagmanager.com^
-##[href="http://wh8.store/LZvHoJ?w4ktdl.css"]
+##[href*=".store/"]
 www.8hysw.com##DIV.container>.row>.stui-pannel.stui-pannel-bg.clearfix>.stui-pannel-box>.stui-pannel_bd>.col-pd.clearfix
 www.8hysw.com##UL.stui-extra.clearfix
 www.8hysw.com###sponsorAdDiv
-||www.8hysw.com/js/bbk/p.js
 ||www.8hysw.com/statics/api/js/share.js
 |vpic.cms.qq.com/nj_vpic/*
 @@img.souche.com/*.jpg
 ||lbsugc.cdn.bcebos.com^
 ##.clearfix.hidden-xs.hidden-sm.stui-pannel-bg.stui-pannel>.stui-pannel-box
+##div.stui-pannel.stui-pannel-bg.visible-sm.visible-xs.clearfix
 ##[href*="/gbook."]
 ||156.247.9.204^
