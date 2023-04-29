@@ -17,7 +17,9 @@
 greasyfork.org###home-ad
 ||*/fingerprint.min.js
 ||netvideohunter.com/*.js
-wuyou.net###toptb,.a_h
+wuyou.net###toptb,.a_h,.a_t.wp
+wuyou.net##body:style(background: transparent !important;)
+www.123pan.com##[src="https://statics.123pan.com/static-by-custom/web-banner@2x.png"]
 taobao.com###juapp-foot
 ttkdex.com###ad-frame
 tmall.com##.mui-mbarp-qrcode
