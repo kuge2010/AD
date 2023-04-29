@@ -215,3 +215,5 @@ support.hp.com###chatbotToronto,.unstyled,.grecaptcha-logo,.grecaptcha-badge
 ##DIV.carousel.carousel_center.col-pd.flickity-page.flickity-enabled.is-draggable
 ##[href*="/gbook."]
 ||156.247.9.204^
+||pv.whpfvrt.cn
+||pm.986qka.cn
