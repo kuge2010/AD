@@ -20,6 +20,8 @@ greasyfork.org###home-ad
 wuyou.net###toptb,.a_h,.a_t.wp
 wuyou.net##body:style(background: transparent !important;)
 www.123pan.com##[src="https://statics.123pan.com/static-by-custom/web-banner@2x.png"]
+www.423down.com##[href^="https://www.423down.com/go.php"],[href="http://www.51jike.top/"],[href="https://www.123pan.com"],.adsbygoogle,.my_widget_recent_comments.widget,.post-related
+www.423down.com##[src="https://www.423down.com/wp-content/themes/D7/img/new.png"]
 taobao.com###juapp-foot
 ttkdex.com###ad-frame
 tmall.com##.mui-mbarp-qrcode
@@ -144,8 +146,10 @@ www.tianqi.com##.zhishubox.wrap1100
 ##div.c-gPKXm:nth-of-type(4)
 ##li.navbar-item.swiper-slide:nth-of-type(16)
 ##[href*=".com:9999"]
+|*/bgad.png
 ||sbb.bbb.*^
-||*.meituan.net^
+||*.meituan.net
+||api.ipify.org
 |*/assets/plugin/jump/*
 |galotop1.com/javascript/*
 ||www.google-analytics.com^
