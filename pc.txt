@@ -20,8 +20,9 @@ greasyfork.org###home-ad
 wuyou.net###toptb,.a_h,.a_t.wp
 wuyou.net##body:style(background: transparent !important;)
 www.123pan.com##[src="https://statics.123pan.com/static-by-custom/web-banner@2x.png"]
-www.423down.com##[href^="https://www.423down.com/go.php"],[href="http://www.51jike.top/"],[href="https://www.123pan.com"],.adsbygoogle,.my_widget_recent_comments.widget,.post-related
+www.423down.com##[href="https://www.423down.com/go.php?url=aHR0cDovL3d3dy50ZGNoYXQuaW4vP3JlPTQyMw=="],[href^="http://www.51jike.top/"],.adsbygoogle,.my_widget_recent_comments.widget,.post-related
 www.423down.com##[src="https://www.423down.com/wp-content/themes/D7/img/new.png"]
+www.423down.com##[href="https://www.123pan.com"]
 taobao.com###juapp-foot
 ttkdex.com###ad-frame
 tmall.com##.mui-mbarp-qrcode
@@ -154,6 +155,9 @@ www.tianqi.com##.zhishubox.wrap1100
 |galotop1.com/javascript/*
 ||www.google-analytics.com^
 ||www.googletagmanager.com^
+##[href*=".store/"]
+||pv.whpfvrt.cn
+||pm.986qka.cn
 www.dy2818.com##.clearfix.myui-foot
 www.dy2818.com##marquee
 www.dy2818.com##.clearfix.myui-panel-box > .close-box.tips
@@ -219,5 +223,3 @@ support.hp.com###chatbotToronto,.unstyled,.grecaptcha-logo,.grecaptcha-badge
 ##DIV.carousel.carousel_center.col-pd.flickity-page.flickity-enabled.is-draggable
 ##[href*="/gbook."]
 ||156.247.9.204^
-||pv.whpfvrt.cn
-||pm.986qka.cn
