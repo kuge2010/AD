@@ -4,6 +4,11 @@
 |meituan.xn--3bs795g.fit:4443*
 .net/ad/$image
 /template/*/ads/*
+www.423down.com##[href="https://www.423down.com/go.php?url=aHR0cDovL3d3dy50ZGNoYXQuaW4vP3JlPTQyMw=="],[href^="http://www.51jike.top/"]
+www.423down.com##[src*="img.alicdn.com/imgextra/i4/"]
+www.423down.com##H3.entry-related-title
+www.423down.com##UL.entry-related.post-list.clearfix
+www.123pan.com##DIV#prod
 xhkan.com##.notes
 xhkan.com##[href="/go.html"]
 m.guancha.cn##DIV.g_header44
