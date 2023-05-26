@@ -9,6 +9,11 @@ www.423down.com##[src*="img.alicdn.com/imgextra/i4/"]
 www.423down.com##H3.entry-related-title
 www.423down.com##UL.entry-related.post-list.clearfix
 www.123pan.com##DIV#prod
+m.163.com##DIV.js-recommend-vip
+m.163.com##SECTION.fixedOpenNewsapp
+m.163.com##SECTION.main-openApp.js-open-app
+m.163.com##DIV.s-tip.js-open-app
+news.sina.cn##SPAN.art_img_callUp.j_callST
 xhkan.com##.notes
 xhkan.com##[href="/go.html"]
 m.guancha.cn##DIV.g_header44
@@ -22,6 +27,7 @@ m.baidu.com##.hint-ft-questionnaire
 m.baidu.com##FORM#se-form2
 m.baidu.com##DIV#footer-wrap
 m.baidu.com##.results-pre,.se-results-pre
+m.baidu.com##FOOTER.c-gap-inner-top-middle
 baijiahao.baidu.com##.undefined
 baijiahao.baidu.com##DIV.bottomTTSStruct.contentPadding
 iqiyi.com##.iqp-logo-box,.iqp-dock
@@ -59,6 +65,10 @@ cj.sina.cn##DIV.unfold-words
 mbd.baidu.com##DIV#hot-topic
 m.sohu.com##DIV#artFloatDiscuss
 cj.sina.cn##SECTION.module-extend.module-lecai
+1010dy4.com###layui-layer1
+www.1010dy4.com##DIV.carousel.carousel_right.col-pd.clearfix.flickity-enabled.is-draggable
+www.1010dy4.com##SPAN.text-muted
+##[href*=".shenguangai.com"]
 ##[href="/list/40.html"]
 ##[href="http://parse.chexin.cc/index.html"]
 ##.detail.stui-player__detail > div
@@ -94,8 +104,6 @@ www.xawqxh.net,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com##.is_mb,
 ||www.google-analytics.com^
 ||www.googletagmanager.com^
 ##[href*=".store/"]
-||pv.whpfvrt.cn
-||pm.986qka.cn
 www.8hysw.com##DIV.container>.row>.stui-pannel.stui-pannel-bg.clearfix>.stui-pannel-box>.stui-pannel_bd>.col-pd.clearfix
 www.8hysw.com##UL.stui-extra.clearfix
 www.8hysw.com###sponsorAdDiv
@@ -106,3 +114,7 @@ www.8hysw.com###sponsorAdDiv
 ##.clearfix.hidden-xs.hidden-sm.stui-pannel-bg.stui-pannel>.stui-pannel-box
 ##[href*="/gbook."]
 ||156.247.9.204^
+||pm.986qka.cn
+||pv.whpfvrt.cn
+||zz.bdstatic.com^
+||kc.mosijs.cn^
