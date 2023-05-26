@@ -17,10 +17,10 @@
 greasyfork.org###home-ad
 ||*/fingerprint.min.js
 ||netvideohunter.com/*.js
-wuyou.net###toptb,.a_h,.a_t.wp
+wuyou.net###toptb,.a_h,.a_t.wp,.a_pt
 wuyou.net##body:style(background: transparent !important;)
-www.123pan.com##[src="https://statics.123pan.com/static-by-custom/web-banner@2x.png"]
-www.423down.com##[href="https://www.423down.com/go.php?url=aHR0cDovL3d3dy50ZGNoYXQuaW4vP3JlPTQyMw=="],[href^="http://www.51jike.top/"],.adsbygoogle,.my_widget_recent_comments.widget,.post-related
+www.123pan.com##[src="https://statics.123pan.com/static-by-custom/web-banner@2x.png"],.ant-carousel
+www.423down.com##[href^="http://www.tdchat.in/"],[href="https://www.423down.com/go.php?url=aHR0cDovL3d3dy50ZGNoYXQuaW4vP3JlPTQyMw=="],[href^="http://www.51jike.top/"],.adsbygoogle,.my_widget_recent_comments.widget,.post-related
 www.423down.com##[src="https://www.423down.com/wp-content/themes/D7/img/new.png"]
 www.423down.com##[href="https://www.123pan.com"]
 taobao.com###juapp-foot
@@ -38,7 +38,8 @@ www.youku.com##.vip_vip_wrap
 ||127.0.0.1:*/?new_command=iku$domain=youku.com
 tieba.baidu.com##.dialogJ.umoney-promotion-dialog.dialogJfix.dialogJshadow
 pan.baidu.com##.JS-nativeupload-tip
-baidu.com###app-guide
+pan.baidu.com###web-multi-bottom.ad-multi-tips.ad-platform-tips,#web-right-view.ad-platform-tips
+baidu.com###app-guide,#app-read,.app-side-banner,.clearfix.inner
 baidu.com###dialog1
 baidu.com##.module-canvas
 baidu.com##.yeEDsO
@@ -48,7 +49,7 @@ baidu.com##.result-op xpath-log
 baidu.com##.leftBlock
 baidu.com##.WVcsxG
 baidu.com###guide_fc
-baidu.com##.red-packet-box
+baidu.com##.red-packet-box,._2z1q32z
 baidu.com###activateGuidePopupOuter
 |http://www.baidu.com/img/bdlogo.gif
 ||bdimg.share.baidu.com/static/js/*
@@ -134,7 +135,7 @@ bbs.pcbeta.com##+js(no-setTimeout-if, showADialog)
 ||bbs.pcbeta.com/data/cache/auAGOU.js
 pcbeta.com###wp > div[class][id]:not([class*="cl"])
 pcbeta.com##+js(aopr, Node.prototype.insertBefore)
-www.tianqi.com##.zhishubox.wrap1100
+www.tianqi.com##.zhishubox.wrap1100,.app_erweima
 555dy7.com,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com##.popupShow.none.popup-tips.popup,DIV.fixedGroup
 555dy7.com,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com##.is_pc,#popup,.footer,.module-item-douban,.is_pc_flex
 ##.c-gPKXm-hNPZdq-top-true.c-gPKXm,#mask,.c-kEupPs,.c-bcHxrT,.c-ghexqh,.c-hcWCi,.c-ilqoRP,.MuiBox-root.css-mgur8
@@ -172,7 +173,7 @@ api.zhiduoduogx.com##DIV#ac_tips
 douyin.com##body:style(overflow:auto!important)
 ! 抖音去登录提示
 douyin.com##.login-mask-enter-done.screen-mask
-www.douyin.com##.zfoAilgt.mPWahmAI,.JsAsIOEV,.wallPaperBtn.nH4jBlTd,.text-clarity-new,.login-clarity-new-ff.login-clarity-new
+www.douyin.com##.zfoAilgt.mPWahmAI,.JsAsIOEV,.wallPaperBtn.nH4jBlTd,.text-clarity-new,.login-clarity-new-ff.login-clarity-new,.JsAsIOEV,.mkFAChuA.Gl1fvQSs
 ||bytegoofy.com/obj/goofy/ies/douyin_web/async/LoginCheck.$script,domain=douyin.com
 ||lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/LoginCheck.$script,domain=douyin.com
 ||bytegoofy.com/obj/slardar/fe/sdk-web/plugins/blank-screen.$script,domain=douyin.com
