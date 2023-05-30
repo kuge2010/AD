@@ -68,6 +68,8 @@ cj.sina.cn##SECTION.module-extend.module-lecai
 1010dy4.com###layui-layer1
 www.1010dy4.com##DIV.carousel.carousel_right.col-pd.clearfix.flickity-enabled.is-draggable
 www.1010dy4.com##SPAN.text-muted
+www.1010dy4.com##.is-draggable.flickity-enabled.clearfix.col-pd.carousel_right.carousel
+www.1010dy4.com##div.clearfix.stui-pannel-bg.stui-pannel:nth-of-type(5),div.clearfix.stui-pannel-bg.stui-pannel:nth-of-type(6),div.clearfix.stui-pannel-bg.stui-pannel:nth-of-type(7),div.clearfix.stui-pannel-bg.stui-pannel:nth-of-type(8),div.clearfix.stui-pannel-bg.stui-pannel:nth-of-type(9)
 ##[href*=".shenguangai.com"]
 ##[href="/list/40.html"]
 ##[href="http://parse.chexin.cc/index.html"]
