@@ -9,6 +9,7 @@ www.423down.com##[src*="img.alicdn.com/imgextra/i4/"]
 www.423down.com##H3.entry-related-title
 www.423down.com##UL.entry-related.post-list.clearfix
 www.123pan.com##DIV#prod
+52pojie.cn##.plm.plc,.dnch_eo_pt,.vw50_kfc_pt
 m.163.com##DIV.js-recommend-vip
 m.163.com##SECTION.fixedOpenNewsapp
 m.163.com##SECTION.main-openApp.js-open-app
