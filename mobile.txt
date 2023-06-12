@@ -46,6 +46,7 @@ www.hktv02.com##DIV#syad1,#syad2,.textred,DIV.textblue
 api.zhiduoduogx.com##DIV#ac_tips
 326t.com##.dropdown
 326t.com##[href="/list/6.html"]
+|*/static/js/xs3.js
 |*/static/js/xs2.js
 |*/static/js/xs.js
 |*/static/tixing.js
@@ -53,6 +54,7 @@ api.zhiduoduogx.com##DIV#ac_tips
 |*/static/edu.js
 |*/static/xs.js
 |*/static/xs2.js
+|*/static/xs3.js
 |*/static/playcon.js
 |*/static/foot.js
 |*/k/133938
