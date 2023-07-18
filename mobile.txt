@@ -9,7 +9,7 @@ www.423down.com##[src*="img.alicdn.com/imgextra/i4/"]
 www.423down.com##H3.entry-related-title
 www.423down.com##UL.entry-related.post-list.clearfix
 www.123pan.com##DIV#prod
-52pojie.cn##.plm.plc,.dnch_eo_pt,.vw50_kfc_pt
+www.52pojie.cn##DIV.res-footer-note,.vw50_kfc_pb,.vw50_kfc_pt
 m.163.com##DIV.js-recommend-vip
 m.163.com##SECTION.fixedOpenNewsapp
 m.163.com##SECTION.main-openApp.js-open-app
@@ -48,6 +48,7 @@ api.zhiduoduogx.com##DIV#ac_tips
 326t.com##.dropdown
 326t.com##[href="/list/6.html"]
 |*/static/js/xs3.js
+|*/static/xs3.js
 |*/static/js/xs2.js
 |*/static/js/xs.js
 |*/static/tixing.js
@@ -55,7 +56,6 @@ api.zhiduoduogx.com##DIV#ac_tips
 |*/static/edu.js
 |*/static/xs.js
 |*/static/xs2.js
-|*/static/xs3.js
 |*/static/playcon.js
 |*/static/foot.js
 |*/k/133938
@@ -90,6 +90,7 @@ www.1010dy4.com##div.clearfix.stui-pannel-bg.stui-pannel:nth-of-type(5),div.clea
 www.xawqxh.net,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com##.popupShow.none.popup-tips.popup,DIV.fixedGroup
 www.xawqxh.net,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com##.is_mb,#popup,.footer,.module-item-douban
 ##.content1,.c-gPKXm-hNPZdq-top-true.c-gPKXm,#mask,.c-kEupPs,.c-bcHxrT,.c-ghexqh,.c-hcWCi,.c-ilqoRP,.MuiBox-root.css-mgur8
+##DIV.bg
 ##.c-dqkMXK > [href="https://d20iku1tcm42ug.cloudfront.net"]
 ##div.c-gPKXm:nth-of-type(4)
 ##li.navbar-item.swiper-slide:nth-of-type(16)
@@ -130,3 +131,8 @@ www.8hysw.com###sponsorAdDiv
 ||dpic.oooja.cn^
 ||dc.lwbhht.com^
 ||dg.tctltb.com^
+||wz.kaolingjing.cn^
+||jx.pygokay.cn^
+||ts.kmihknj.cn^
+||fx.eghyahl.cn^
+|https://api.52wyb.com/js/acf.js
