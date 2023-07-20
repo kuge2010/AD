@@ -43,12 +43,6 @@ www.douyin.com,live.douyin.com##.I6ivXmaS
 ||ibytedapm.com/slardar/fe/sdk-web/plugins/blank-screen.$script,domain=douyin.com
 ||bytegoofy.com/obj/slardar/fe/sdk-web/plugins/common-monitors.$script,domain=douyin.com
 ||ibytedapm.com/slardar/fe/sdk-web/plugins/common-monitors.$script,domain=douyin.com
-www.douyu.com##.PcDiversion
-www.douyu.com##.pv-pic-window-container_focus.pv-pic-window-container
-www.douyu.com##.numIcon.LuckyStartEnter-IconWraper
-www.douyu.com##.SuperFansGuideTips
-www.douyu.com##.PrivilegeGiftModalDialog-panel
-www.douyu.com##.FirstRechargePayPanel
 www.hktv02.com##[href="/ht.html"]
 www.hktv02.com##[href="/ky.html"]
 www.hktv02.com##[href="/b1014.html"]
