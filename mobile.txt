@@ -6,6 +6,7 @@
 /template/*/ads/*
 www.423down.com##[href="https://www.423down.com/go.php?url=aHR0cDovL3d3dy50ZGNoYXQuaW4vP3JlPTQyMw=="],[href^="http://www.51jike.top/"]
 www.423down.com##[src*="img.alicdn.com/imgextra/i4/"]
+www.423down.com##[href="http://www.zuhaogou.top"]
 www.423down.com##H3.entry-related-title
 www.423down.com##UL.entry-related.post-list.clearfix
 www.123pan.com##DIV#prod
@@ -83,6 +84,7 @@ www.1010dy4.com##div.clearfix.stui-pannel-bg.stui-pannel:nth-of-type(5),div.clea
 ##[href*=".shenguangai.com"]
 ##[href="/list/40.html"]
 ##[href="http://parse.chexin.cc/index.html"]
+##[href="http://parse.chexin.cc:81/index.html"]
 ##.detail.stui-player__detail > div
 ##.stui-pannel.stui-pannel-bg.clearfix > div[style]
 ##DIV.carousel.carousel_center.col-pd.flickity-page.flickity-enabled.is-draggable
@@ -101,13 +103,15 @@ www.xawqxh.net,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com##.is_mb,
 ##.c-dqkMXK > [href="https://d20iku1tcm42ug.cloudfront.net"]
 ##div.c-gPKXm:nth-of-type(4)
 ##li.navbar-item.swiper-slide:nth-of-type(16)
+##[href*="/vodtype/124.html"]
+##[href*=".cloudfront.net"]
+##[href*="/label/week.html"]
+##[href*="/label/new.html"]
+##[href*="/label/topic.html"]
+##[href*="/label/hot.html"]
 ##[href="https://www.555dyy.top/"]
 ##[href="https://www.555app.cc/"]
-##[href="https://www.555hd3.com/vodtype/124.html"]
-##[href="/label/hot.html"]
-##[href="/label/topic.html"]
 ##[href*=".com:9999"]
-##[href*=".cloudfront.net"]
 |*/bgad.png
 ||sbb.bbb.*^
 ||*.meituan.net^
@@ -142,3 +146,8 @@ www.8hysw.com###sponsorAdDiv
 ||ts.kmihknj.cn^
 ||fx.eghyahl.cn^
 |https://api.52wyb.com/js/acf.js
+||wmgwwbm.cn^
+||www.91wrx.com^
+||lbsugc.cdn.bcebos.com^
+||stgowan.com^
+www.hktv02.com,www.1010dy4.com##[style*="position:fixed; "]
