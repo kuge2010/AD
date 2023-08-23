@@ -126,11 +126,11 @@ www.xawqxh.net,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com##.is_mb,
 ||www.google-analytics.com^
 ||www.googletagmanager.com^
 ##[href*=".store/"]
-www.8hju.com##.stui-pannel.stui-pannel-bg.visible-sm.visible-xs.clearfix
-www.8hysw.com##DIV.container>.row>.stui-pannel.stui-pannel-bg.clearfix>.stui-pannel-box>.stui-pannel_bd>.col-pd.clearfix
-www.8hysw.com##UL.stui-extra.clearfix
-www.8hysw.com###sponsorAdDiv
-||www.8hysw.com/statics/api/js/share.js
+www.8hyyb.com##.stui-pannel.stui-pannel-bg.visible-sm.visible-xs.clearfix
+www.8hyyb.com##DIV.container>.row>.stui-pannel.stui-pannel-bg.clearfix>.stui-pannel-box>.stui-pannel_bd>.col-pd.clearfix
+www.8hyyb.com##UL.stui-extra.clearfix
+www.8hyyb.com###sponsorAdDiv
+||www.8hyyb.com/statics/api/js/share.js
 |vpic.cms.qq.com/nj_vpic/*
 @@img.souche.com/*.jpg
 ##.clearfix.hidden-xs.hidden-sm.stui-pannel-bg.stui-pannel>.stui-pannel-box
