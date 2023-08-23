@@ -51,6 +51,11 @@ www.hktv02.com##IMG.img,DIV.myui-content__operate,#rtyshonp_tj,#jgd_195
 www.hktv02.com###home_slide,.textblue,.carousel-inner,DIV.fixedGroup-item
 www.hktv02.com##DIV.myui-panel.radius-0.padding-0.clearfix
 www.hktv02.com##DIV#syad1,#syad2,.textred,DIV.textblue
+www.hktv02.com,www.1010dy4.com##[style*="position:fixed; "]
+www.hktv02.com##.layui-layer-page.layui-layer
+www.hktv02.com###layui-layer-shade1
+||2714dc.zrliwc.com^
+||27dcc.nunxhv.com^
 @@||fy.wuye3d.com/*
 api.zhiduoduogx.com##DIV#ac_tips
 326t.com##.dropdown
@@ -121,6 +126,7 @@ www.xawqxh.net,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com##.is_mb,
 ||www.google-analytics.com^
 ||www.googletagmanager.com^
 ##[href*=".store/"]
+www.8hju.com##.stui-pannel.stui-pannel-bg.visible-sm.visible-xs.clearfix
 www.8hysw.com##DIV.container>.row>.stui-pannel.stui-pannel-bg.clearfix>.stui-pannel-box>.stui-pannel_bd>.col-pd.clearfix
 www.8hysw.com##UL.stui-extra.clearfix
 www.8hysw.com###sponsorAdDiv
@@ -129,6 +135,8 @@ www.8hysw.com###sponsorAdDiv
 @@img.souche.com/*.jpg
 ##.clearfix.hidden-xs.hidden-sm.stui-pannel-bg.stui-pannel>.stui-pannel-box
 ##[href*="/gbook."]
+|*/vj3/133938
+|*/js/bbk/tj.js
 ||156.247.9.204^
 ||pm.986qka.cn
 ||pv.whpfvrt.cn
@@ -150,4 +158,11 @@ www.8hysw.com###sponsorAdDiv
 ||www.91wrx.com^
 ||lbsugc.cdn.bcebos.com^
 ||stgowan.com^
-www.hktv02.com,www.1010dy4.com##[style*="position:fixed; "]
+||ed.kmihknj.cn^
+||yz.vujzkkz.cn^
+||s9.cnzz.com^
+||crrnewh.com^
+||hy77913.com^
+||union.maccms.la^
+||kmq.tejgddf.com^
+||kmn.mmftdt.com^
