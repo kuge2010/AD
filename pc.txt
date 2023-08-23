@@ -13,7 +13,9 @@
 ||ip.WoTuLa.com
 ||ip.winvs.com
 ||ip.ntrqq.net
-||intwk.com/
+||intwk.com
+||api.ipify.org^
+|api.52wyb.com/js/acf.js
 greasyfork.org###home-ad
 ||*/fingerprint.min.js
 ||netvideohunter.com/*.js
@@ -162,8 +164,9 @@ www.dy2818.com##marquee
 www.dy2818.com##.clearfix.myui-panel-box > .close-box.tips
 www.dy2818.com##.player-fixed.myui-player__box > .close-box.tips
 www.dy2818.com##.clearfix.myui-vodlist__bd
-||www.8hysw.com/js/ban.js
-||www.8hysw.com/statics/api/js/share.js
+||www.8hyyb.com/js/ban.js
+||www.8hyyb.com/statics/api/js/share.js
+||www.8hyyb.com/js/bbk/tj.js
 api.52wyb.com##DIV[id="ac_tips"]
 api.zhiduoduogx.com##DIV#ac_tips
 ||tg.gtlpaj.com^
@@ -218,6 +221,7 @@ support.hp.com###chatbotToronto,.unstyled,.grecaptcha-logo,.grecaptcha-badge
 ##.clearfix.stui-foot
 ##.is-draggable.flickity-enabled.flickity-page.col-pd.carousel_center.carousel
 ##[href="/list/6.html"]
+##.clearfix.stui-foot
 ##.layui-layer-dialog.layui-layer
 ###layui-layer-shade1
 ##[href="/list/40.html"]
