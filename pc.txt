@@ -139,8 +139,8 @@ pcbeta.com###wp > div[class][id]:not([class*="cl"])
 pcbeta.com##+js(aopr, Node.prototype.insertBefore)
 www.tianqi.com##.zhishubox.wrap1100,.app_erweima
 555dy7.com,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com##.popupShow.none.popup-tips.popup,DIV.fixedGroup
-555dy7.com,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com##.is_pc,#popup,.footer,.module-item-douban,.is_pc_flex
-##.content1,.c-gPKXm-hNPZdq-top-true.c-gPKXm,#mask,.c-kEupPs,.c-bcHxrT,.c-ghexqh,.c-hcWCi,.c-ilqoRP,.MuiBox-root.css-mgur8
+555dy7.com,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com##.is_pc,#popup,.footer,.module-item-douban,.is_pc_flex,.navbar-hr
+##.content1,.c-gPKXm-hNPZdq-top-true.c-gPKXm,#mask,.c-kEupPs,.c-bcHxrT,.c-ghexqh,.c-hcWCi,.c-ilqoRP,.MuiBox-root.css-mgur8,.c-bAXmbO
 |*/bgad.png
 ##[href="/label/week.html"]
 ##[href="/label/new.html"]
