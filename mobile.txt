@@ -1,5 +1,6 @@
 ! Title: My AdFilters（for mobile）
 @@||mimg.127.net/lib/fingerprintjs2/2.1.4/fingerprint2.min.js
+||alipays://platformapi/startapp?appId=*
 |maidagu.com^
 |meituan.xn--3bs795g.fit:4443*
 .net/ad/$image
@@ -81,11 +82,6 @@ cj.sina.cn##DIV.unfold-words
 mbd.baidu.com##DIV#hot-topic
 m.sohu.com##DIV#artFloatDiscuss
 cj.sina.cn##SECTION.module-extend.module-lecai
-1010dy4.com###layui-layer1
-www.1010dy4.com##DIV.carousel.carousel_right.col-pd.clearfix.flickity-enabled.is-draggable
-www.1010dy4.com##SPAN.text-muted
-www.1010dy4.com##.is-draggable.flickity-enabled.clearfix.col-pd.carousel_right.carousel
-www.1010dy4.com##div.clearfix.stui-pannel-bg.stui-pannel:nth-of-type(5),div.clearfix.stui-pannel-bg.stui-pannel:nth-of-type(6),div.clearfix.stui-pannel-bg.stui-pannel:nth-of-type(7),div.clearfix.stui-pannel-bg.stui-pannel:nth-of-type(8),div.clearfix.stui-pannel-bg.stui-pannel:nth-of-type(9)
 ##[href*=".shenguangai.com"]
 ##[href="/list/40.html"]
 ##[href="http://parse.chexin.cc/index.html"]
@@ -94,6 +90,7 @@ www.1010dy4.com##div.clearfix.stui-pannel-bg.stui-pannel:nth-of-type(5),div.clea
 ##.stui-pannel.stui-pannel-bg.clearfix > div[style]
 ##DIV.carousel.carousel_center.col-pd.flickity-page.flickity-enabled.is-draggable
 ##[href*="/ysz3.html"]
+##[href*="/yseh3.html"]
 |*/vj1/*
 |*/v1/stats/*
 |*/vj2/*
@@ -172,3 +169,5 @@ www.8hyyb.com###sponsorAdDiv
 ||picshack.net^
 ||qk.uztyvfk.cn^
 ||ts.ykkbwdf.cn^
+||yc.bbphonix.xyz^
+@@||osswc.pplive.cn/*
