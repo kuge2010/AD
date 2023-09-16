@@ -141,6 +141,7 @@ www.tianqi.com##.zhishubox.wrap1100,.app_erweima
 555dy7.com,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com##.popupShow.none.popup-tips.popup,DIV.fixedGroup
 555dy7.com,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com##.is_pc,#popup,.footer,.module-item-douban,.is_pc_flex,.navbar-hr
 ##.content1,.c-gPKXm-hNPZdq-top-true.c-gPKXm,#mask,.c-kEupPs,.c-bcHxrT,.c-ghexqh,.c-hcWCi,.c-ilqoRP,.MuiBox-root.css-mgur8,.c-bAXmbO
+||apitestss.bihee.net/api_v3/ad/show
 |*/bgad.png
 ##[href="/label/week.html"]
 ##[href="/label/new.html"]
@@ -152,18 +153,12 @@ www.tianqi.com##.zhishubox.wrap1100,.app_erweima
 ##li.navbar-item.swiper-slide:nth-of-type(16)
 ##[href*=".com:9999"]
 |*/bgad.png
-||sbb.bbb.*^
 ||*.meituan.net
 ||api.ipify.org
 |*/assets/plugin/jump/*
 |galotop1.com/javascript/*
 ||www.google-analytics.com^
 ||www.googletagmanager.com^
-www.dy2818.com##.clearfix.myui-foot
-www.dy2818.com##marquee
-www.dy2818.com##.clearfix.myui-panel-box > .close-box.tips
-www.dy2818.com##.player-fixed.myui-player__box > .close-box.tips
-www.dy2818.com##.clearfix.myui-vodlist__bd
 ||www.8hyyb.com/js/ban.js
 ||www.8hyyb.com/statics/api/js/share.js
 ||www.8hyyb.com/js/bbk/tj.js
@@ -226,6 +221,7 @@ support.hp.com###chatbotToronto,.unstyled,.grecaptcha-logo,.grecaptcha-badge
 ###layui-layer-shade1
 ##[href="/list/40.html"]
 ##[href*="/ysz3.html"]
+##[href*="/yseh3.html"]
 ##[href="http://parse.chexin.cc/index.html"]
 ##[href="http://parse.chexin.cc:81/index.html"]
 ##.detail.stui-player__detail > div
