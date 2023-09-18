@@ -182,8 +182,6 @@ www.douyin.com###captcha_container
 ||live.douyin.com/service-worker.js$script
 ! 播放器内操作屏幕提示~好烦人
 www.douyin.com,live.douyin.com##.I6ivXmaS
-www.douyin.com##.zGYIR.style__CaptchaWrapper-sc-1gpeoge-0.captcha_verify_container
-www.douyin.com###captcha_container
 www.hktv02.com##[href="/ht.html"]
 www.hktv02.com##[href="/ky.html"]
 www.hktv02.com##[href="/b1014.html"]
