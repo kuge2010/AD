@@ -72,6 +72,8 @@ api.zhiduoduogx.com##DIV#ac_tips
 |*/static/xs2.js
 |*/static/playcon.js
 |*/static/foot.js
+||*/static/feng.js
+##[href="https://t.52dajia.com"]
 |*/k/133938
 |*/k/132659
 m.toutiao.com##DIV.float-activate-button-container
