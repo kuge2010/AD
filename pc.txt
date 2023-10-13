@@ -19,6 +19,8 @@
 greasyfork.org###home-ad
 ||*/fingerprint.min.js
 ||netvideohunter.com/*.js
+www.123pan.com##.ant-layout > div
+www.123pan.com##.ant-modal-mask,.ant-modal-centered.base-modal.linear-modal.ant-modal-wrap
 wuyou.net###toptb,.a_h,.a_t.wp,.a_pt,.plm.plc
 wuyou.net##body:style(background: transparent !important;)
 www.123pan.com##[src="https://statics.123pan.com/static-by-custom/web-banner@2x.png"],.ant-carousel
@@ -140,13 +142,14 @@ pcbeta.com##+js(aopr, Node.prototype.insertBefore)
 www.tianqi.com##.zhishubox.wrap1100,.app_erweima
 555dy7.com,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com##.popupShow.none.popup-tips.popup,DIV.fixedGroup
 555dy7.com,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com##.is_pc,#popup,.footer,.module-item-douban,.is_pc_flex,.navbar-hr
-##.content1,.c-gPKXm-hNPZdq-top-true.c-gPKXm,#mask,.c-kEupPs,.c-bcHxrT,.c-ghexqh,.c-hcWCi,.c-ilqoRP,.MuiBox-root.css-mgur8,.c-bAXmbO
+##.content1,.c-gPKXm,#mask,.c-kEupPs,.c-bcHxrT,.c-ghexqh,.c-hcWCi,.c-ilqoRP,.MuiBox-root.css-mgur8,.c-bAXmbO
 ||apitestss.bihee.net/api_v3/ad/show
 |*/bgad.png
 ##[href="/label/week.html"]
 ##[href="/label/new.html"]
 ##[href="https://www.555dyy.top/"]
 ##[href="https://www.555app.cc/"]
+##[href="https://555dy.shop"]
 ##[href="/label/hot.html"]
 ##[href="/label/topic.html"]
 ##div.c-gPKXm:nth-of-type(4)
@@ -169,9 +172,7 @@ api.zhiduoduogx.com##DIV#ac_tips
 douyin.com##body:style(overflow:auto!important)
 ! 抖音去登录提示
 douyin.com##.login-mask-enter-done.screen-mask
-www.douyin.com##.zfoAilgt.mPWahmAI,.JsAsIOEV,.wallPaperBtn.nH4jBlTd,.text-clarity-new,.login-clarity-new-ff.login-clarity-new,.mkFAChuA.Gl1fvQSs
-www.douyin.com##.zGYIR.style__CaptchaWrapper-sc-1gpeoge-0.captcha_verify_container
-www.douyin.com###captcha_container
+douyin.com##.zfoAilgt.mPWahmAI,.JsAsIOEV,.wallPaperBtn.nH4jBlTd,.text-clarity-new,.login-clarity-new-ff.login-clarity-new,.mkFAChuA.Gl1fvQSs
 ||bytegoofy.com/obj/goofy/ies/douyin_web/async/LoginCheck.$script,domain=douyin.com
 ||lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/LoginCheck.$script,domain=douyin.com
 ||bytegoofy.com/obj/slardar/fe/sdk-web/plugins/blank-screen.$script,domain=douyin.com
@@ -181,14 +182,15 @@ www.douyin.com###captcha_container
 ! 禁用service worker以免产生天量缓存
 ||live.douyin.com/service-worker.js$script
 ! 播放器内操作屏幕提示~好烦人
-www.douyin.com,live.douyin.com##.I6ivXmaS
-www.hktv02.com##[href="/ht.html"]
-www.hktv02.com##[href="/ky.html"]
-www.hktv02.com##[href="/b1014.html"]
-www.hktv02.com##IMG.img,DIV.myui-content__operate,#rtyshonp_tj,#jgd_195
-www.hktv02.com###home_slide,.textblue,.carousel-inner,DIV.fixedGroup-item
-www.hktv02.com##DIV.myui-panel.radius-0.padding-0.clearfix
-www.hktv02.com##DIV#syad1,#syad2,.textred,DIV.textblue
+douyin.com,live.douyin.com##.I6ivXmaS
+hktv02.com,hktvmi.com##[href="/ht.html"]
+hktv02.com,hktvmi.com##[href="/ky.html"]
+hktv02.com,hktvmi.com##[href="/b1014.html"]
+hktv02.com,hktvmi.com##[href="https://www.shenguangai.com/"]
+hktv02.com,hktvmi.com##IMG.img,DIV.myui-content__operate,#rtyshonp_tj,#jgd_195
+hktv02.com,hktvmi.com###home_slide,.textblue,.carousel-inner,DIV.fixedGroup-item
+hktv02.com,hktvmi.com##DIV.myui-panel.radius-0.padding-0.clearfix
+hktv02.com,hktvmi.com##DIV#syad1,#syad2,.textred,DIV.textblue
 support.hp.com###chatbotToronto,.unstyled,.grecaptcha-logo,.grecaptcha-badge
 ||*/static/tixing.js
 ||*/static/js/deny.js
@@ -202,7 +204,7 @@ support.hp.com###chatbotToronto,.unstyled,.grecaptcha-logo,.grecaptcha-badge
 ||*/static/xs3.js
 ||*/static/playcon.js
 ||*/static/foot.js
-||*/static/feng.js
+ ||*/static/feng.js
 ##[href="https://t.52dajia.com"]
 |*/k/133938
 |*/k/132659
