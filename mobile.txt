@@ -133,6 +133,7 @@ www.xawqxh.net,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com##.is_mb,
 ##[href*=".com:9999"]
 ##[href="https://555dy.shop"]
 ##[href*="/vodtype/124.html"]
+##[href="https://d1eckg82taf04m.cloudfront.net/kfd4i2.pdf"]
 |*/bgad.png
 ||apitestss.bihee.net/api_v3/ad/show
 ||*.meituan.net^
@@ -201,3 +202,6 @@ www.bdys10.com##SPAN.badge.bg-green-lt
 www.bdys10.com##SPAN.cursor-pointer.text-orange
 www.bdys10.com##A.nav-link.d-flex.lh-1.text-reset.p-0
 www.bdys10.com##.nav-item.dropdown.d-md-flex.me-3
+||wecounty-1300407952.file.myqcloud.com/app/js/2022/5/20220523145422816AGR.js
+www.bdys10.com##BUTTON.btn.btn-sm.btn-danger.position-absolute.bottom-0.end-0
+www.bdys10.com##DIV.jq-toast-wrap
