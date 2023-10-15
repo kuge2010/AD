@@ -82,10 +82,11 @@ api.zhiduoduogx.com##DIV#ac_tips
 |*/static/xs2.js
 |*/static/playcon.js
 |*/static/foot.js
-||*/static/feng.js
+|*/static/feng.js
 ##[href="https://t.52dajia.com"]
 |*/k/133938
 |*/k/132659
+|*/static/jquery.js
 m.toutiao.com##DIV.float-activate-button-container
 view.inews.qq.com##DIV.normal_buttonWrap__3xBdo
 3g.163.com##SECTION.main-openApp.js-open-app
