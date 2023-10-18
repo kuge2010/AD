@@ -118,7 +118,7 @@ cj.sina.cn##SECTION.module-extend.module-lecai
 |*/x/abc8c040-5fb5-42dd-ac77-601a7821651c.as
 |*/api/LM/*
 |https://cdn.staticfile.org/headroom/*
-www.xawqxh.net,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com##.popupShow.none.popup-tips.popup,DIV.fixedGroup
+www.xawqxh.net,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com##.popupShow.none.popup-tips.popup,DIV.fixedGroup,.container-slide
 www.xawqxh.net,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com##.is_mb,#popup,.footer,.module-item-douban
 ##.content1,.c-gPKXm-hNPZdq-top-true.c-gPKXm,#mask,.c-kEupPs,.c-bcHxrT,.c-ghexqh,.c-hcWCi,.c-ilqoRP,.MuiBox-root.css-mgur8
 ##DIV.bg
@@ -129,12 +129,10 @@ www.xawqxh.net,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com##.is_mb,
 ##[href*="/label/new.html"]
 ##[href*="/label/topic.html"]
 ##[href*="/label/hot.html"]
-##[href="https://www.555dyy.top/"]
-##[href="https://www.555app.cc/"]
 ##[href*=".com:9999"]
-##[href="https://555dy.shop"]
+##[href*="https://555dy."]
 ##[href*="/vodtype/124.html"]
-##[href="https://d1eckg82taf04m.cloudfront.net/kfd4i2.pdf"]
+##[href="https://d1eckg82taf04m.cloudfront.net/"]
 |*/bgad.png
 ||apitestss.bihee.net/api_v3/ad/show
 ||*.meituan.net^
