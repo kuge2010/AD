@@ -34,7 +34,6 @@ baijiahao.baidu.com##.undefined
 baijiahao.baidu.com##DIV.bottomTTSStruct.contentPadding
 |hm.baidu.com/hm.gif
 m.baidu.com##DIV.ec_ad_results
-activity.baidu.com##DIV#app
 m.baidu.com##ARTICLE#wenda_inquiry
 m.baidu.com##DIV.lg-wrapper
 m.baidu.com##ARTICLE.c-container._zpTVW
