@@ -131,7 +131,7 @@ www.xawqxh.net,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com##.is_mb,
 ##[href*=".com:9999"]
 ##[href*="https://555dy."]
 ##[href*="/vodtype/124.html"]
-##[href="https://d1eckg82taf04m.cloudfront.net/"]
+##[href*="https://d1eckg82taf04m.cloudfront.net/"]
 |*/bgad.png
 ||apitestss.bihee.net/api_v3/ad/show
 ||*.meituan.net^
