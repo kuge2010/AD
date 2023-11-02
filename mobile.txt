@@ -10,6 +10,7 @@ www.423down.com##[href="http://www.zuhaogou.top"]
 www.423down.com##H3.entry-related-title
 www.423down.com##UL.entry-related.post-list.clearfix
 www.123pan.com##DIV#prod
+www.123pan.com##DIV.mfy-tips
 www.52pojie.cn##DIV.res-footer-note,.vw50_kfc_pb,.vw50_kfc_pt
 m.163.com##DIV.js-recommend-vip
 m.163.com##SECTION.fixedOpenNewsapp
@@ -147,6 +148,7 @@ www.8hyyb.com##.stui-pannel.stui-pannel-bg.visible-sm.visible-xs.clearfix
 www.8hyyb.com##DIV.container>.row>.stui-pannel.stui-pannel-bg.clearfix>.stui-pannel-box>.stui-pannel_bd>.col-pd.clearfix
 www.8hyyb.com##UL.stui-extra.clearfix
 www.8hyyb.com###sponsorAdDiv
+###ac_tips[style="display: block;"]
 ||www.8hyyb.com/statics/api/js/share.js
 |vpic.cms.qq.com/nj_vpic/*
 @@img.souche.com/*.jpg
