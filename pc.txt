@@ -132,6 +132,7 @@ www.tianqi.com##.zhishubox.wrap1100,.app_erweima
 555dy7.com,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com##.popupShow.none.popup-tips.popup,DIV.fixedGroup,.container-slide
 555dy7.com,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com##.is_pc,#popup,.footer,.module-item-douban,.is_pc_flex,.navbar-hr
 ##.content1,.c-gPKXm,#mask,.c-kEupPs,.c-bcHxrT,.c-ghexqh,.c-hcWCi,.c-ilqoRP,.MuiBox-root.css-mgur8,.c-bAXmbO
+##.mb-1.lg\:text-\[25px\].text-\[20px\].font-\[700\].md\:h-\[200px\].h-\[88px\].w-\[960px\].items-center.justify-center.flex.text-gray-400.bhgg-intro-placeholder
 ||apitestss.bihee.net/api_v3/ad/show
 |*/bgad.png
 ##[href="/label/week.html"]
@@ -149,9 +150,10 @@ www.tianqi.com##.zhishubox.wrap1100,.app_erweima
 |galotop1.com/javascript/*
 ||www.google-analytics.com^
 ||www.googletagmanager.com^
-||bahaoyy.com/js/ban.js
-||bahaoyy.com/statics/api/js/share.js
-||bahaoyy.com/js/bbk/tj.js
+||*/js/ban.js
+||*/statics/api/js/share.js
+||*/js/bbk/tj.js
+##.stui-extra
 api.52wyb.com##DIV[id="ac_tips"]
 api.zhiduoduogx.com##DIV#ac_tips
 ||tg.gtlpaj.com^
@@ -240,4 +242,3 @@ www.youku.com##.promotelogin_infobottom
 v.youku.com##.full-mode.fee-wrap-new
 v.youku.com#@#+js(m3u-prune, , /^https:\/\/[\w\.]+ott\.cibntv\.net.+?\.m3u8\?/)
 www.mgtv.com##.vip-button-box,.has-siblings-2,.sidebar-download,.m-top-ad-show.m-top-ad,.app-float-down
-
