@@ -160,6 +160,8 @@ api.zhiduoduogx.com##DIV#ac_tips
 ||pint.huizhoumi.com^
 douyin.com##body:style(overflow:auto!important)
 ! 抖音去登录提示
+douyin.com##.PQ_8jUOz.cHsWlFXl
+douyin.com##.AqF5HLUI
 douyin.com##.login-mask-enter-done.screen-mask
 douyin.com##.zfoAilgt.mPWahmAI,.JsAsIOEV,.wallPaperBtn.nH4jBlTd,.text-clarity-new,.login-clarity-new-ff.login-clarity-new,.mkFAChuA.Gl1fvQSs
 ||bytegoofy.com/obj/goofy/ies/douyin_web/async/LoginCheck.$script,domain=douyin.com
