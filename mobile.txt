@@ -44,9 +44,11 @@ baijiahao.baidu.com##DIV.bottomTTSStruct.contentPadding
 |hm.baidu.com/hm.gif
 iqiyi.com##.iqp-logo-box,.iqp-dock
 m.tianqi.com##DIV.yinliu_app
-www.douyin.com##.login-mask-enter-done.screen-mask.mPWahmAI
-www.douyin.com##.zfoAilgt.mPWahmAI,.JsAsIOEV,.wallPaperBtn.nH4jBlTd,.text-clarity-new,.login-clarity-new-ff.login-clarity-new
-www.douyin.com,live.douyin.com##.I6ivXmaS
+douyin.com##.tSXOCvQc, .mPWahmAI, .screen-mask, .login-mask-enter-done
+douyin.com##.AqF5HLUI
+douyin.com##.login-mask-enter-done.screen-mask.mPWahmAI
+douyin.com##.zfoAilgt.mPWahmAI,.JsAsIOEV,.wallPaperBtn.nH4jBlTd,.text-clarity-new,.login-clarity-new-ff.login-clarity-new
+douyin.com,live.douyin.com##.I6ivXmaS
 ||live.douyin.com/service-worker.js$script
 ||bytegoofy.com/obj/goofy/ies/douyin_web/async/LoginCheck.$script,domain=douyin.com
 ||lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/LoginCheck.$script,domain=douyin.com
