@@ -10,6 +10,8 @@ www.423down.com##[src*="img.alicdn.com/imgextra/i4/"]
 www.423down.com##[href="http://www.zuhaogou.top"]
 www.423down.com##H3.entry-related-title
 www.423down.com##UL.entry-related.post-list.clearfix
+423down.com##div.entry~p[style],div.entry>p[align] span[style]
+423down.com##ul.excerpt>li a[rel="category tag"]:has-text(产品推广):upward(li)
 www.123pan.com##DIV#prod
 www.123pan.com##DIV.mfy-tips
 www.52pojie.cn##DIV.res-footer-note,.vw50_kfc_pb,.vw50_kfc_pt
@@ -177,3 +179,4 @@ www.bdys10.com##.nav-item.dropdown.d-md-flex.me-3
 ||wecounty-1300407952.file.myqcloud.com/app/js/2022/5/20220523145422816AGR.js
 www.bdys10.com##BUTTON.btn.btn-sm.btn-danger.position-absolute.bottom-0.end-0
 www.bdys10.com##DIV.jq-toast-wrap
+@@||adsmind.gdtimg.com^
