@@ -93,6 +93,9 @@ lofter.com##.w-pagelayer-reglogin2.w-pagelayer-reglogin.w-pagelayer
 80s.la###footer
 80s.la##.bdsharebuttonbox
 80s.la##.mb.links
+mail.163.com##.nui-layer.nui-noticeLayer.js-component-popup
+mail.163.com##.nui-block.nui-assistBlock.nui-tipsBlock.js-component-block
+mail.163.com##.Sky-gIbx-mailtrack-tips.Sky-gIbx-mailtrack-trail-tips.js-component-component
 163.com##.gWel-weather.gWel-weather-default
 163.com##.gWel-bottom
 auto.163.com##.mfap-expand
