@@ -24,7 +24,7 @@ www.123pan.com##.ant-modal-mask,.ant-modal-centered.base-modal.linear-modal.ant-
 wuyou.net###toptb,.a_h,.a_t.wp,.a_pt,.plm.plc
 wuyou.net##body:style(background: transparent !important;)
 www.123pan.com##[src="https://statics.123pan.com/static-by-custom/web-banner@2x.png"],.ant-carousel
-423down.com##[href^="http://www.tdchat.in/"],[href="https://www.423down.com/go.php?url=aHR0cDovL3d3dy50ZGNoYXQuaW4vP3JlPTQyMw=="],[href^="http://www.51jike.top/"],.adsbygoogle,.my_widget_recent_comments.widget,.post-related
+423down.com##[href^="http://www.tdchat.in/"],[href*="https://www.423down.com/go.php"],[href^="http://www.51jike.top/"],.adsbygoogle,.my_widget_recent_comments.widget,.post-related,.no_webshot
 423down.com##[src="https://www.423down.com/wp-content/themes/D7/img/new.png"]
 423down.com##[href="https://www.123pan.com"]
 423down.com##[href="http://www.zuhaogou.top"]
