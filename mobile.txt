@@ -13,6 +13,9 @@ www.423down.com##.clearfix.post-list.entry-related,.entry-related-title,.comment
 www.123pan.com##DIV#prod
 www.123pan.com##DIV.mfy-tips
 www.52pojie.cn##DIV.res-footer-note,.vw50_kfc_pb,.vw50_kfc_pt
+mail.163.com##.nui-layer.nui-noticeLayer.js-component-popup
+mail.163.com##.nui-block.nui-assistBlock.nui-tipsBlock.js-component-block
+mail.163.com##.Sky-gIbx-mailtrack-tips.Sky-gIbx-mailtrack-trail-tips.js-component-component
 m.163.com##DIV.js-recommend-vip
 m.163.com##SECTION.fixedOpenNewsapp
 m.163.com##SECTION.main-openApp.js-open-app
