@@ -5,13 +5,11 @@ support.hp.com###chatbotToronto,.unstyled,.grecaptcha-logo,.grecaptcha-badge
 |meituan.xn--3bs795g.fit:4443*
 .net/ad/$image
 /template/*/ads/*
-www.423down.com##[href="https://www.423down.com/go.php?url=aHR0cDovL3d3dy50ZGNoYXQuaW4vP3JlPTQyMw=="],[href^="http://www.51jike.top/"]
 www.423down.com##[src*="img.alicdn.com/imgextra/i4/"]
-www.423down.com##[href="http://www.zuhaogou.top"]
-www.423down.com##H3.entry-related-title
 www.423down.com##UL.entry-related.post-list.clearfix
-423down.com##div.entry~p[style],div.entry>p[align] span[style]
-423down.com##ul.excerpt>li a[rel="category tag"]:has-text(产品推广):upward(li)
+www.423down.com##.clearfix.post-list.entry-related,.entry-related-title,.comment-respond
+##[href*="https://www.423down.com/go.php"],[href^="http://www.51jike.top/"]
+##[href="http://www.zuhaogou.top"]
 www.123pan.com##DIV#prod
 www.123pan.com##DIV.mfy-tips
 www.52pojie.cn##DIV.res-footer-note,.vw50_kfc_pb,.vw50_kfc_pt
@@ -180,3 +178,4 @@ www.bdys10.com##.nav-item.dropdown.d-md-flex.me-3
 www.bdys10.com##BUTTON.btn.btn-sm.btn-danger.position-absolute.bottom-0.end-0
 www.bdys10.com##DIV.jq-toast-wrap
 @@||adsmind.gdtimg.com^
+||mail.kguapp.com^
