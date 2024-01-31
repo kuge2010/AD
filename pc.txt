@@ -83,7 +83,7 @@ lofter.com###m-regGuideLayer
 ||coin-hive.com/lib/coinhive.min.js
 ||zl588.com^
 ||eguu8.com^
-52pojie.cn##.plm.plc,.dnch_eo_pt,.vw50_kfc_pt
+52pojie.cn##.plm.plc,.dnch_eo_pt,.vw50_kfc_pt,.tip_c,#append_parent
 @@cloudflare.com
 taihe.com##.tipToTaihe-box
 taihe.com##body > .responsive > .screen-hd
@@ -138,7 +138,7 @@ www.tianqi.com##.zhishubox.wrap1100,.app_erweima
 555dy7.com,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com##.popupShow.none.popup-tips.popup,DIV.fixedGroup,.container-slide
 555dy7.com,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com##.is_pc,#popup,.footer,.module-item-douban,.is_pc_flex,.navbar-hr
 ##.content1,.c-gPKXm,#mask,.c-kEupPs,.c-bcHxrT,.c-ghexqh,.c-hcWCi,.c-ilqoRP,.MuiBox-root.css-mgur8,.c-bAXmbO
-##.mb-1.lg\:text-\[25px\].text-\[20px\].font-\[700\].md\:h-\[200px\].h-\[88px\].w-\[960px\].items-center.justify-center.flex.text-gray-400.bhgg-intro-placeholder
+##.mb-1.lg\:text-\[25px\].text-\[20px\].font-\[700\].md\:h-\[200px\].h-\[88px\].w-\[960px\].items-center.justify-center.flex.text-gray-400.bhgg-intro-placeholder,.bhgg_lazy
 ||apitestss.bihee.net/api_v3/ad/show
 |*/bgad.png
 ##[href="/label/week.html"]
