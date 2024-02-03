@@ -169,7 +169,7 @@ douyin.com##body:style(overflow:auto!important)
 douyin.com##.PQ_8jUOz.cHsWlFXl
 douyin.com##.AqF5HLUI
 douyin.com##.login-mask-enter-done.screen-mask
-douyin.com##.zfoAilgt.mPWahmAI,.JsAsIOEV,.wallPaperBtn.nH4jBlTd,.text-clarity-new,.login-clarity-new-ff.login-clarity-new,.mkFAChuA.Gl1fvQSs
+douyin.com##.zfoAilgt.mPWahmAI,.JsAsIOEV,.wallPaperBtn.nH4jBlTd,.text-clarity-new,.login-clarity-new-ff.login-clarity-new,.mkFAChuA.Gl1fvQSs,.wwNZW6za,.wallPaperBtn.EucRTdaE
 ||bytegoofy.com/obj/goofy/ies/douyin_web/async/LoginCheck.$script,domain=douyin.com
 ||lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/LoginCheck.$script,domain=douyin.com
 ||bytegoofy.com/obj/slardar/fe/sdk-web/plugins/blank-screen.$script,domain=douyin.com
