@@ -5,7 +5,6 @@ support.hp.com###chatbotToronto,.unstyled,.grecaptcha-logo,.grecaptcha-badge
 |meituan.xn--3bs795g.fit:4443*
 .net/ad/$image
 /template/*/ads/*
-423down.com##ul.post-list>li span.sticky-post:has-text(置顶):upward(li)
 www.423down.com##[src*="img.alicdn.com/imgextra/i4/"]
 www.423down.com##UL.entry-related.post-list.clearfix
 www.423down.com##.clearfix.post-list.entry-related,.entry-related-title,.comment-respond
@@ -51,7 +50,7 @@ m.tianqi.com##DIV.yinliu_app
 douyin.com##.tSXOCvQc, .mPWahmAI, .screen-mask, .login-mask-enter-done
 douyin.com##.AqF5HLUI
 douyin.com##.login-mask-enter-done.screen-mask.mPWahmAI
-douyin.com##.zfoAilgt.mPWahmAI,.JsAsIOEV,.wallPaperBtn.nH4jBlTd,.text-clarity-new,.login-clarity-new-ff.login-clarity-new
+douyin.com##.zfoAilgt.mPWahmAI,.JsAsIOEV,.wallPaperBtn.nH4jBlTd,.text-clarity-new,.login-clarity-new-ff.login-clarity-new,.wwNZW6za,.wallPaperBtn.EucRTdaE
 douyin.com,live.douyin.com##.I6ivXmaS
 ||live.douyin.com/service-worker.js$script
 ||bytegoofy.com/obj/goofy/ies/douyin_web/async/LoginCheck.$script,domain=douyin.com
