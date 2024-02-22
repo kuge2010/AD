@@ -155,6 +155,7 @@ www.8hyyb.com,bahaoyy.com,bahaoys.com##DIV.container>.row>.stui-pannel.stui-pann
 www.8hyyb.com,bahaoyy.com,bahaoys.com##UL.stui-extra.clearfix
 www.8hyyb.com,bahaoyy.com,bahaoys.com###sponsorAdDiv
 api.52wyb.com##DIV[id="ac_tips"]
+||222d6cf334f2a04b6gg.3rsppty.cn^
 |vpic.cms.qq.com/nj_vpic/*
 @@img.souche.com/*.jpg
 ##.clearfix.hidden-xs.hidden-sm.stui-pannel-bg.stui-pannel>.stui-pannel-box
