@@ -96,6 +96,8 @@ lofter.com##.w-pagelayer-reglogin2.w-pagelayer-reglogin.w-pagelayer
 mail.163.com##.nui-layer.nui-noticeLayer.js-component-popup
 mail.163.com##.nui-block.nui-assistBlock.nui-tipsBlock.js-component-block
 mail.163.com##.Sky-gIbx-mailtrack-tips.Sky-gIbx-mailtrack-trail-tips.js-component-component
+mail.163.com##[href="gAd.util.go('plus','letter_fm_163_00','mailCapacity')"]
+mail.163.com##.mailgg_letter.mailgg,.Ec0.rZ0.js-component-component
 163.com##.gWel-weather.gWel-weather-default
 163.com##.gWel-bottom
 auto.163.com##.mfap-expand
