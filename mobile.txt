@@ -15,7 +15,7 @@ www.123pan.com##DIV.mfy-tips
 www.52pojie.cn##DIV.res-footer-note,.vw50_kfc_pb,.vw50_kfc_pt
 mail.163.com##.nui-layer.nui-noticeLayer.js-component-popup
 mail.163.com##.nui-block.nui-assistBlock.nui-tipsBlock.js-component-block
-mail.163.com##.Sky-gIbx-mailtrack-tips.Sky-gIbx-mailtrack-trail-tips.js-component-component
+mail.163.com##.Sky-gIbx-mailtrack-tips.Sky-gIbx-mailtrack-trail-tips.js-component-component,.rd0
 m.163.com##DIV.js-recommend-vip
 m.163.com##SECTION.fixedOpenNewsapp
 m.163.com##SECTION.main-openApp.js-open-app
@@ -90,6 +90,7 @@ api.zhiduoduogx.com##DIV#ac_tips
 |*/static/playcon.js
 |*/static/foot.js
 |*/static/feng.js
+|*/static/js/tixing.js
 ##[href="https://t.52dajia.com"]
 |*/k/133938
 |*/k/132659
@@ -187,3 +188,4 @@ www.bdys10.com##DIV.jq-toast-wrap
 ||mail.kguapp.com^
 ||whatisyourna.com^
 ##[href="http://dyxz.chexin.cc:81/index.html"]
+m0.mail.sina.com.cn##.extendAd,.connMod,.homepgRight,.userVeil,.activityBanner
