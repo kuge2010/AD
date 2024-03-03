@@ -97,7 +97,7 @@ mail.163.com##.nui-layer.nui-noticeLayer.js-component-popup
 mail.163.com##.nui-block.nui-assistBlock.nui-tipsBlock.js-component-block
 mail.163.com##.Sky-gIbx-mailtrack-tips.Sky-gIbx-mailtrack-trail-tips.js-component-component
 mail.163.com##[href="gAd.util.go('plus','letter_fm_163_00','mailCapacity')"]
-mail.163.com##.mailgg_letter.mailgg,.Ec0.rZ0.js-component-component
+mail.163.com##.mailgg_letter.mailgg,.Ec0.rZ0.js-component-component,.rd0
 163.com##.gWel-weather.gWel-weather-default
 163.com##.gWel-bottom
 auto.163.com##.mfap-expand
@@ -205,6 +205,7 @@ support.hp.com###chatbotToronto,.unstyled,.grecaptcha-logo,.grecaptcha-badge
 ||*/static/foot.js
 ||*/static/feng.js
 ||*/static/jquery.js
+|*/static/js/tixing.js
 ##[href="https://t.52dajia.com"]
 |*/k/133938
 |*/k/132659
@@ -252,3 +253,4 @@ www.youku.com##.promotelogin_infobottom
 v.youku.com##.full-mode.fee-wrap-new
 v.youku.com#@#+js(m3u-prune, , /^https:\/\/[\w\.]+ott\.cibntv\.net.+?\.m3u8\?/)
 www.mgtv.com##.vip-button-box,.has-siblings-2,.sidebar-download,.m-top-ad-show.m-top-ad,.app-float-down
+m0.mail.sina.com.cn##.extendAd,.connMod,.homepgRight,.userVeil,.activityBanner
