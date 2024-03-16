@@ -68,6 +68,7 @@ hktv02.com,hktvmi.com###home_slide,.textblue,.carousel-inner,DIV.fixedGroup-item
 hktv02.com,hktvmi.com##DIV.myui-panel.radius-0.padding-0.clearfix
 hktv02.com,hktvmi.com##DIV#syad1,#syad2,.textred,DIV.textblue
 hktv02.com,hktvmi.com##[style*="position:fixed; "]
+hktv02.com,hktvmi.com###playlistbtn > [href]
 hktv02.com,hktvmi.com##.layui-layer-page.layui-layer
 hktv02.com,hktvmi.com###layui-layer-shade1
 ||2714dc.zrliwc.com^
@@ -126,8 +127,8 @@ cj.sina.cn##SECTION.module-extend.module-lecai
 |*/x/abc8c040-5fb5-42dd-ac77-601a7821651c.as
 |*/api/LM/*
 |https://cdn.staticfile.org/headroom/*
-www.xawqxh.net,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com##.popupShow.none.popup-tips.popup,DIV.fixedGroup,.container-slide
-www.xawqxh.net,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com##.is_mb,#popup,.footer,.module-item-douban
+www.xawqxh.net,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com,5moov.vip##.popupShow.none.popup-tips.popup,DIV.fixedGroup,.container-slide
+www.xawqxh.net,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com,5moov.vip##.is_mb,#popup,.footer,.module-item-douban
 ##.content1,.c-gPKXm-hNPZdq-top-true.c-gPKXm,#mask,.c-kEupPs,.c-bcHxrT,.c-ghexqh,.c-hcWCi,.c-ilqoRP,.MuiBox-root.css-mgur8
 ##.mb-1.lg\:text-\[25px\].text-\[20px\].font-\[700\].md\:h-\[200px\].h-\[88px\].w-\[960px\].items-center.justify-center.flex.text-gray-400.bhgg-intro-placeholder,.bhgg_lazy
 ##DIV.bg
@@ -139,6 +140,8 @@ www.xawqxh.net,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com##.is_mb,
 ##[href*="/label/topic.html"]
 ##[href*="/label/hot.html"]
 ##[href*="/vodtype/124.html"]
+##[href="https://555app.vip"]
+##[href="https://bihex.shop/"]
 ##[href*=".com:9999"]
 ##[href*="https://555yy."]
 ##[href="https://boxbc.club/"]
@@ -188,4 +191,8 @@ www.bdys10.com##DIV.jq-toast-wrap
 ||mail.kguapp.com^
 ||whatisyourna.com^
 ##[href="http://dyxz.chexin.cc:81/index.html"]
-m0.mail.sina.com.cn##.extendAd,.connMod,.homepgRight,.userVeil,.activityBanner
+www.quanji456.com,lzizy9.com###search-content,.hidden-xs.wrapper,.pd60.wrapper,.fixed_right_bar,.video-info-share
+www.quanji456.com,lzizy9.com##.header-module > .nav-menu-items
+www.quanji456.com,lzizy9.com##[href="/index.php/label/app.html"],[href="/index.php/actor/type/id/35.html"],[href="/index.php/vod/type/id/40.html"],[href="/index.php/art/type/id/36.html"]
+www.quanji456.com,lzizy9.com##em,.slogan
+www.quanji456.com,lzizy9.com##DIV.mxonefoot
