@@ -190,7 +190,8 @@ www.bdys10.com##DIV.jq-toast-wrap
 @@||adsmind.gdtimg.com^
 ||mail.kguapp.com^
 ||whatisyourna.com^
-##[href="http://dyxz.chexin.cc:81/index.html"]
+||areyoutherenow.com^
+##[href="http://dyxz.chexin.cc:81/index.html"],[href="/list/6.html"]
 www.quanji456.com,lzizy9.com###search-content,.hidden-xs.wrapper,.pd60.wrapper,.fixed_right_bar,.video-info-share
 www.quanji456.com,lzizy9.com##.header-module > .nav-menu-items
 www.quanji456.com,lzizy9.com##[href="/index.php/label/app.html"],[href="/index.php/actor/type/id/35.html"],[href="/index.php/vod/type/id/40.html"],[href="/index.php/art/type/id/36.html"]
