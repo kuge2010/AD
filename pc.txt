@@ -190,16 +190,16 @@ douyin.com##.zfoAilgt.mPWahmAI,.JsAsIOEV,.wallPaperBtn.nH4jBlTd,.text-clarity-ne
 ||live.douyin.com/service-worker.js$script
 ! 播放器内操作屏幕提示~好烦人
 douyin.com,live.douyin.com##.I6ivXmaS
-hktv02.com,hktvmi.com##[href="/ht.html"]
-hktv02.com,hktvmi.com##[href="/ky.html"]
-hktv02.com,hktvmi.com##[href="/b1014.html"]
-hktv02.com,hktvmi.com##[href="https://www.shenguangai.com/"]
-hktv02.com,hktvmi.com##IMG.img,DIV.myui-content__operate,#rtyshonp_tj,#jgd_195
-hktv02.com,hktvmi.com###home_slide,.textblue,.carousel-inner,DIV.fixedGroup-item
-hktv02.com,hktvmi.com##DIV.myui-panel.radius-0.padding-0.clearfix
-hktv02.com,hktvmi.com##DIV#syad1,#syad2,.textred,DIV.textblue
-hktv02.com,hktvmi.com###playlistbtn > [href]
-hktv02.com,hktvmi.com##.layui-layer-page.layui-layer
+hktv02.com,hktv03.com,hktvmi.com##[href="/ht.html"]
+hktv02.com,hktv03.com,hktvmi.com##[href="/ky.html"]
+hktv02.com,hktv03.com,hktvmi.com##[href="/b1014.html"]
+hktv02.com,hktv03.com,hktvmi.com##[href="https://www.shenguangai.com/"]
+hktv02.com,hktv03.com,hktvmi.com##IMG.img,DIV.myui-content__operate,#rtyshonp_tj,#jgd_195
+hktv02.com,hktv03.com,hktvmi.com###home_slide,.textblue,.carousel-inner,DIV.fixedGroup-item
+hktv02.com,hktv03.com,hktvmi.com##DIV.myui-panel.radius-0.padding-0.clearfix
+hktv02.com,hktv03.com,hktvmi.com##DIV#syad1,#syad2,.textred,DIV.textblue
+hktv02.com,hktv03.com,hktvmi.com###playlistbtn > [href]
+hktv02.com,hktv03.com,hktvmi.com##.layui-layer-page.layui-layer
 support.hp.com###chatbotToronto,.unstyled,.grecaptcha-logo,.grecaptcha-badge
 ||*/static/tixing.js
 ||*/static/js/deny.js
