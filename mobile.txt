@@ -59,18 +59,18 @@ douyin.com,live.douyin.com##.I6ivXmaS
 ||ibytedapm.com/slardar/fe/sdk-web/plugins/blank-screen.$script,domain=douyin.com
 ||bytegoofy.com/obj/slardar/fe/sdk-web/plugins/common-monitors.$script,domain=douyin.com
 ||ibytedapm.com/slardar/fe/sdk-web/plugins/common-monitors.$script,domain=douyin.com
-hktv02.com,hktv03.com,hktvmi.com##[href="/ht.html"]
-hktv02.com,hktv03.com,hktvmi.com##[href="/ky.html"]
-hktv02.com,hktv03.com,hktvmi.com##[href="/b1014.html"]
-hktv02.com,hktv03.com,hktvmi.com##[href="https://www.shenguangai.com/"]
-hktv02.com,hktv03.com,hktvmi.com##IMG.img,DIV.myui-content__operate,#rtyshonp_tj,#jgd_195
-hktv02.com,hktv03.com,hktvmi.com###home_slide,.textblue,.carousel-inner,DIV.fixedGroup-item
-hktv02.com,hktv03.com,hktvmi.com##DIV.myui-panel.radius-0.padding-0.clearfix
-hktv02.com,hktv03.com,hktvmi.com##DIV#syad1,#syad2,.textred,DIV.textblue
-hktv02.com,hktv03.com,hktvmi.com##[style*="position:fixed; "]
-hktv02.com,hktv03.com,hktvmi.com###playlistbtn > [href]
-hktv02.com,hktv03.com,hktvmi.com##.layui-layer-page.layui-layer
-hktv02.com,hktv03.com,hktvmi.com###layui-layer-shade1
+hktv02.com,hktv03.com,hktv06.com,hktvmi.com##[href="/ht.html"]
+hktv02.com,hktv03.com,hktv06.com,hktvmi.com##[href="/ky.html"]
+hktv02.com,hktv03.com,hktv06.com,hktvmi.com##[href="/b1014.html"]
+hktv02.com,hktv03.com,hktv06.com,hktvmi.com##[href="https://www.shenguangai.com/"]
+hktv02.com,hktv03.com,hktv06.com,hktvmi.com##IMG.img,DIV.myui-content__operate,#rtyshonp_tj,#jgd_195
+hktv02.com,hktv03.com,hktv06.com,hktvmi.com###home_slide,.textblue,.carousel-inner,DIV.fixedGroup-item
+hktv02.com,hktv03.com,hktv06.com,hktvmi.com##DIV.myui-panel.radius-0.padding-0.clearfix
+hktv02.com,hktv03.com,hktv06.com,hktvmi.com##DIV#syad1,#syad2,.textred,DIV.textblue
+hktv02.com,hktv03.com,hktv06.com,hktvmi.com##[style*="position:fixed; "]
+hktv02.com,hktv03.com,hktv06.com,hktvmi.com###playlistbtn > [href]
+hktv02.com,hktv03.com,hktv06.com,hktvmi.com##.layui-layer-page.layui-layer
+hktv02.com,hktv03.com,hktv06.com,hktvmi.com###layui-layer-shade1
 ||2714dc.zrliwc.com^
 ||27dcc.nunxhv.com^
 ||29dg.clcmdie.com^
@@ -198,3 +198,4 @@ www.quanji456.com,lzizy9.com##[href="/index.php/label/app.html"],[href="/index.p
 www.quanji456.com,lzizy9.com##em,.slogan
 www.quanji456.com,lzizy9.com##DIV.mxonefoot
 ||dh.chuyinlianmeng.top^
+||ed.xjihzzc.com^
