@@ -199,7 +199,7 @@ hktv02.com,hktv03.com,hktv06.com,hktvmi.com###home_slide,.textblue,.carousel-inn
 hktv02.com,hktv03.com,hktv06.com,hktvmi.com##DIV.myui-panel.radius-0.padding-0.clearfix
 hktv02.com,hktv03.com,hktv06.com,hktvmi.com##DIV#syad1,#syad2,.textred,DIV.textblue
 hktv02.com,hktv03.com,hktv06.com,hktvmi.com###playlistbtn > [href]
-hktv02.com,hktv03.com,hktv06.com,hktvmi.com##.layui-layer-page.layui-layer
+hktv02.com,hktv03.com,hktv06.com,hktvmi.com##.layui-layer-page.layui-layer, #layui-layer-shade1
 support.hp.com###chatbotToronto,.unstyled,.grecaptcha-logo,.grecaptcha-badge
 ||*/static/tixing.js
 ||*/static/js/deny.js
@@ -245,16 +245,16 @@ support.hp.com###chatbotToronto,.unstyled,.grecaptcha-logo,.grecaptcha-badge
 ||pv.whpfvrt.cn
 ||pm.986qka.cn
 ||es.kmihknj.cn^
-www.bdys10.com##div.col-12 > .card,#ad-float
-www.bdys10.com##center
-www.bdys10.com##.p-0.bg-azure.ribbon-top.ribbon-bookmark.ribbon,.border-top.container-fluid.footer,.col-md-7,.d-xxl-block.d-xl-block.d-lg-block.d-md-block.d-none.col-md-5,.order-md-last.flex-row.navbar-nav
-www.bdys10.com##div.download-list.mt-3.card:nth-of-type(6)
-www.bdys10.com##.overflow-hidden.mt-3.card,.mb-5.mt-3.card,.my-3.card,.text-orange.cursor-pointer,.end-0.bottom-0.position-absolute.btn-danger.btn-sm.btn
+www.bdys10.com,www.yjys.me,bde4.icu,www.52bdys.com##div.col-12 > .card,#ad-float
+www.bdys10.com,www.yjys.me,bde4.icu,www.52bdys.com##center
+www.bdys10.com,www.yjys.me,bde4.icu,www.52bdys.com##.p-0.bg-azure.ribbon-top.ribbon-bookmark.ribbon,.border-top.container-fluid.footer,.col-md-7,.d-xxl-block.d-xl-block.d-lg-block.d-md-block.d-none.col-md-5,.order-md-last.flex-row.navbar-nav
+www.bdys10.com,www.yjys.me,bde4.icu,www.52bdys.com##div.download-list.mt-3.card:nth-of-type(6)
+www.bdys10.com,www.yjys.me,bde4.icu,www.52bdys.com##.overflow-hidden.mt-3.card,.mb-5.mt-3.card,.my-3.card,.text-orange.cursor-pointer,.end-0.bottom-0.position-absolute.btn-danger.btn-sm.btn
 ##[href*="/qiupian"]
 ##[href="https://www.mp4er.cc"]
-www.bdys10.com##.artplayer-plugin-ads
+www.bdys10.com,www.yjys.me,bde4.icu,www.52bdys.com##.artplayer-plugin-ads
 ||wecounty-1300407952.file.myqcloud.com/app/js/2022/5/20220523145422816AGR.js
-|https://www.bdys10.com/zzzzz
+|*/zzzzz
 www.iqiyi.com##.header__ele,#\31 000000000717.ad-tl
 @@||71edge.com/videos/other/202$xhr
 tv.sohu.com##.pc-login-guide
