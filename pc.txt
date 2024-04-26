@@ -170,6 +170,7 @@ www.tianqi.com##.zhishubox.wrap1100,.app_erweima
 ||*/statics/api/js/share.js
 ||*/js/bbk/tj.js
 ##.stui-extra
+bahaoys.com##.clearfix.stui-extra
 api.52wyb.com##DIV[id="ac_tips"]
 api.zhiduoduogx.com##DIV#ac_tips
 ||tg.gtlpaj.com^
