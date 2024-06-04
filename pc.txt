@@ -63,7 +63,7 @@ baidu.com##.WVcsxG
 baidu.com###guide_fc
 baidu.com##.red-packet-box,._2z1q32z
 baidu.com###activateGuidePopupOuter
-fanyi.baidu.com###desktop-guide-wrapper
+fanyi.baidu.com###desktop-guide-wrapper,.nhcoTCy6
 |http://www.baidu.com/img/bdlogo.gif
 ||bdimg.share.baidu.com/static/js/*
 ||api.share.baidu.com
@@ -146,6 +146,7 @@ www.tianqi.com##.zhishubox.wrap1100,.app_erweima
 555dy7.com,www.555dy7.com,www.555dy1.com,www.555hd3.com,fskc177.com,5moov.vip##.is_pc,#popup,.footer,.module-item-douban,.is_pc_flex,.navbar-hr
 ##.content1,.c-gPKXm,#mask,.c-kEupPs,.c-bcHxrT,.c-ghexqh,.c-hcWCi,.c-ilqoRP,.MuiBox-root.css-mgur8,.c-bAXmbO
 ##.mb-1.lg\:text-\[25px\].text-\[20px\].font-\[700\].md\:h-\[200px\].h-\[88px\].w-\[960px\].items-center.justify-center.flex.text-gray-400.bhgg-intro-placeholder,.bhgg_lazy
+##.max-sm\:px-2.gap-y-6.top-48.mx-auto.items-center.justify-center.flex.w-screen.md\:mt-0.container
 ||apitestss.bihee.net/api_v3/ad/show
 |*/bgad.png
 ##[href="/label/week.html"]
@@ -170,7 +171,7 @@ www.tianqi.com##.zhishubox.wrap1100,.app_erweima
 ||*/statics/api/js/share.js
 ||*/js/bbk/tj.js
 ##.stui-extra
-bahaoys.com##.clearfix.stui-extra
+soutiyi.com##.clearfix.stui-extra
 api.52wyb.com##DIV[id="ac_tips"]
 api.zhiduoduogx.com##DIV#ac_tips
 ||tg.gtlpaj.com^
@@ -200,7 +201,7 @@ hktv02.com,hktv03.com,hktv06.com,hktvmi.com###home_slide,.textblue,.carousel-inn
 hktv02.com,hktv03.com,hktv06.com,hktvmi.com##DIV.myui-panel.radius-0.padding-0.clearfix
 hktv02.com,hktv03.com,hktv06.com,hktvmi.com##DIV#syad1,#syad2,.textred,DIV.textblue
 hktv02.com,hktv03.com,hktv06.com,hktvmi.com###playlistbtn > [href]
-hktv02.com,hktv03.com,hktv06.com,hktvmi.com##.layui-layer-page.layui-layer, #layui-layer-shade1
+hktv02.com,hktv03.com,hktv06.com,hktvmi.com##.layui-layer-page.layui-layer,#layui-layer-shade1
 support.hp.com###chatbotToronto,.unstyled,.grecaptcha-logo,.grecaptcha-badge
 ||*/static/tixing.js
 ||*/static/js/deny.js
@@ -246,14 +247,14 @@ support.hp.com###chatbotToronto,.unstyled,.grecaptcha-logo,.grecaptcha-badge
 ||pv.whpfvrt.cn
 ||pm.986qka.cn
 ||es.kmihknj.cn^
-www.bdys10.com,www.yjys.me,bde4.icu,www.52bdys.com##div.col-12 > .card,#ad-float
-www.bdys10.com,www.yjys.me,bde4.icu,www.52bdys.com##center
-www.bdys10.com,www.yjys.me,bde4.icu,www.52bdys.com##.p-0.bg-azure.ribbon-top.ribbon-bookmark.ribbon,.border-top.container-fluid.footer,.col-md-7,.d-xxl-block.d-xl-block.d-lg-block.d-md-block.d-none.col-md-5,.order-md-last.flex-row.navbar-nav
-www.bdys10.com,www.yjys.me,bde4.icu,www.52bdys.com##div.download-list.mt-3.card:nth-of-type(6)
-www.bdys10.com,www.yjys.me,bde4.icu,www.52bdys.com##.overflow-hidden.mt-3.card,.mb-5.mt-3.card,.my-3.card,.text-orange.cursor-pointer,.end-0.bottom-0.position-absolute.btn-danger.btn-sm.btn
+www.bdys10.com,www.yjys01.com,bde4.icu,www.52bdys.com##div.col-12 > .card,#ad-float
+www.bdys10.com,www.yjys01.com,bde4.icu,www.52bdys.com##center
+www.bdys10.com,www.yjys01.com,bde4.icu,www.52bdys.com##.p-0.bg-azure.ribbon-top.ribbon-bookmark.ribbon,.border-top.container-fluid.footer,.col-md-7,.d-xxl-block.d-xl-block.d-lg-block.d-md-block.d-none.col-md-5,.order-md-last.flex-row.navbar-nav
+www.bdys10.com,www.yjys01.com,bde4.icu,www.52bdys.com##div.download-list.mt-3.card:nth-of-type(6)
+www.bdys10.com,www.yjys01.com,bde4.icu,www.52bdys.com##.overflow-hidden.mt-3.card,.mb-5.mt-3.card,.my-3.card,.text-orange.cursor-pointer,.end-0.bottom-0.position-absolute.btn-danger.btn-sm.btn
 ##[href*="/qiupian"]
 ##[href="https://www.mp4er.cc"]
-www.bdys10.com,www.yjys.me,bde4.icu,www.52bdys.com##.artplayer-plugin-ads
+www.bdys10.com,www.yjys01.com,bde4.icu,www.52bdys.com##.artplayer-plugin-ads
 ||wecounty-1300407952.file.myqcloud.com/app/js/2022/5/20220523145422816AGR.js
 |*/zzzzz
 www.iqiyi.com##.header__ele,#\31 000000000717.ad-tl
