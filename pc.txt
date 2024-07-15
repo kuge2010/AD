@@ -19,8 +19,9 @@
 greasyfork.org###home-ad
 ||*/fingerprint.min.js
 ||netvideohunter.com/*.js
+www.yangshipin.cn##.winE
 www.123pan.com##.ant-layout > div
-www.123pan.com##.ant-modal-mask,.ant-modal-centered.base-modal.linear-modal.ant-modal-wrap,.header-waning-tips,.advBanner,.banner_all_wrap,.payment-footer.loginModal-footer
+www.123pan.com##.ant-modal-mask,.ant-modal-centered.base-modal.linear-modal.ant-modal-wrap,.header-waning-tips,.advBanner,.banner_all_wrap,.payment-footer.loginModal-footer,.special-menu-item-container,.sider-member-btn,.new-menu-item-image,.notice-box,.activity-box
 wuyou.net###toptb,.a_h,.a_t.wp,.a_pt,.plm.plc
 wuyou.net##body:style(background: transparent !important;)
 www.123pan.com##[src="https://statics.123pan.com/static-by-custom/web-banner@2x.png"],.ant-carousel
@@ -247,14 +248,17 @@ support.hp.com###chatbotToronto,.unstyled,.grecaptcha-logo,.grecaptcha-badge
 ||pv.whpfvrt.cn
 ||pm.986qka.cn
 ||es.kmihknj.cn^
-www.bdys10.com,www.yjys01.com,bde4.icu,www.52bdys.com##div.col-12 > .card,#ad-float
-www.bdys10.com,www.yjys01.com,bde4.icu,www.52bdys.com##center
-www.bdys10.com,www.yjys01.com,bde4.icu,www.52bdys.com##.p-0.bg-azure.ribbon-top.ribbon-bookmark.ribbon,.border-top.container-fluid.footer,.col-md-7,.d-xxl-block.d-xl-block.d-lg-block.d-md-block.d-none.col-md-5,.order-md-last.flex-row.navbar-nav
-www.bdys10.com,www.yjys01.com,bde4.icu,www.52bdys.com##div.download-list.mt-3.card:nth-of-type(6)
-www.bdys10.com,www.yjys01.com,bde4.icu,www.52bdys.com##.overflow-hidden.mt-3.card,.mb-5.mt-3.card,.my-3.card,.text-orange.cursor-pointer,.end-0.bottom-0.position-absolute.btn-danger.btn-sm.btn
+www.yjys01.com,yjys02.com##div.col-12 > .card,#ad-float
+www.yjys01.com,yjys02.com##center
+www.yjys01.com,yjys02.com##.p-0.bg-azure.ribbon-top.ribbon-bookmark.ribbon,.border-top.container-fluid.footer,.col-md-7,.d-xxl-block.d-xl-block.d-lg-block.d-md-block.d-none.col-md-5,.order-md-last.flex-row.navbar-nav
+www.yjys01.com,yjys02.com##div.download-list.mt-3.card:nth-of-type(6)
+www.yjys01.com,yjys02.com##.overflow-hidden.mt-3.card,.mb-5.mt-3.card,.my-3.card,.text-orange.cursor-pointer,.end-0.bottom-0.position-absolute.btn-danger.btn-sm.btn
+www.yjys01.com,yjys02.com##.show.fade.modal-blur.modal,.show.fade.modal-backdrop,.jq-toast-wrap,.p-0.ribbon-top.ribbon
+www.yjys01.com,yjys02.com##.container-xl > .navbar-collapse.collapse
+||*/v4/js/tabler.min.js
 ##[href*="/qiupian"]
 ##[href="https://www.mp4er.cc"]
-www.bdys10.com,www.yjys01.com,bde4.icu,www.52bdys.com##.artplayer-plugin-ads
+www.yjys01.com,yjys02.com##.artplayer-plugin-ads
 ||wecounty-1300407952.file.myqcloud.com/app/js/2022/5/20220523145422816AGR.js
 |*/zzzzz
 www.iqiyi.com##.header__ele,#\31 000000000717.ad-tl
