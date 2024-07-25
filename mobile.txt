@@ -159,6 +159,7 @@ www.8hyyb.com,bahaoyy.com,bahaoys.com,soutiyi.com##.stui-pannel.stui-pannel-bg.v
 www.8hyyb.com,bahaoyy.com,bahaoys.com,soutiyi.com##DIV.container>.row>.stui-pannel.stui-pannel-bg.clearfix>.stui-pannel-box>.stui-pannel_bd>.col-pd.clearfix
 www.8hyyb.com,bahaoyy.com,bahaoys.com,soutiyi.com##UL.stui-extra.clearfix
 www.8hyyb.com,bahaoyy.com,bahaoys.com,soutiyi.com###sponsorAdDiv,.clearfix.stui-extra
+|api.chtcar.com/js/acf.js
 api.52wyb.com##DIV[id="ac_tips"]
 ||*.3rsppty.cn^
 ||*.3prndxd.cn^
