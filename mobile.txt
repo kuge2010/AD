@@ -184,7 +184,7 @@ yjys01.com,yjys02.com##.container-xl > .navbar-collapse.collapse
 ||wecounty-1300407952.file.myqcloud.com/app/svg/2022/5/20220523150310196THO.svg
 |*/zzzzz
 |*/v4/js/artplayer-plugin-ads.js
-|*/os.js
+|*/o.js
 yjys01.com,yjys02.com##DIV.ribbon.ribbon-bookmark.ribbon-top.bg-azure.p-0
 yjys01.com,yjys02.com##SPAN.badge.bg-green-lt
 yjys01.com,yjys02.com##SPAN.cursor-pointer.text-orange
