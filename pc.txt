@@ -250,10 +250,10 @@ support.hp.com###chatbotToronto,.unstyled,.grecaptcha-logo,.grecaptcha-badge
 ||es.kmihknj.cn^
 www.yjys01.com,yjys02.com##div.col-12 > .card,#ad-float
 www.yjys01.com,yjys02.com##center
-www.yjys01.com,yjys02.com##.p-0.bg-azure.ribbon-top.ribbon-bookmark.ribbon,.border-top.container-fluid.footer,.col-md-7,.d-xxl-block.d-xl-block.d-lg-block.d-md-block.d-none.col-md-5,.order-md-last.flex-row.navbar-nav
+www.yjys01.com,yjys02.com##.p-0.bg-azure.ribbon-top.ribbon-bookmark.ribbon,.border-top.container-fluid.footer,.col-md-7,.d-xxl-block.d-xl-block.d-lg-block.d-md-block.d-none.col-md-5,.px-3.nav-link,.order-md-last.flex-row.navbar-nav > .dropdown.nav-item
 www.yjys01.com,yjys02.com##div.download-list.mt-3.card:nth-of-type(6)
 www.yjys01.com,yjys02.com##.overflow-hidden.mt-3.card,.mb-5.mt-3.card,.my-3.card,.text-orange.cursor-pointer,.end-0.bottom-0.position-absolute.btn-danger.btn-sm.btn
-www.yjys01.com,yjys02.com##.show.fade.modal-blur.modal,.show.fade.modal-backdrop,.jq-toast-wrap,.p-0.ribbon-top.ribbon
+www.yjys01.com,yjys02.com##.show.fade.modal-blur.modal,.show.fade.modal-backdrop,.jq-toast-wrap,.p-0.ribbon-top.ribbon,.bg-danger-lt.nav-link,.dropdown-toggle.nav-link
 www.yjys01.com,yjys02.com##.container-xl > .navbar-collapse.collapse
 ||*/v4/js/tabler.min.js
 ##[href*="/qiupian"]
@@ -276,3 +276,5 @@ www.quanji456.com,lzizy9.com##[href="/index.php/label/app.html"],[href="/index.p
 www.quanji456.com,lzizy9.com##em,.slogan
 www.quanji456.com,lzizy9.com##DIV.mxonefoot
 github.com,kkgithub.com##.d-lg-inline-block.d-block.py-lg-2.py-3.px-lg-2.px-0.no-underline.HeaderMenu-link
+www.baidu.com##.new-pmd.c-container.result-op
+wenku.baidu.com##.chat-show.user-select-auto.small-app-right
