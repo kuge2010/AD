@@ -184,7 +184,6 @@ yjys01.com,yjys02.com##.container-xl > .navbar-collapse.collapse
 ||wecounty-1300407952.file.myqcloud.com/app/svg/2022/5/20220523150310196THO.svg
 |*/zzzzz
 |*/v4/js/artplayer-plugin-ads.js
-|*/o.js
 yjys01.com,yjys02.com##DIV.ribbon.ribbon-bookmark.ribbon-top.bg-azure.p-0
 yjys01.com,yjys02.com##SPAN.badge.bg-green-lt
 yjys01.com,yjys02.com##SPAN.cursor-pointer.text-orange
@@ -198,6 +197,8 @@ yjys01.com,yjys02.com##DIV.jq-toast-wrap
 ||whatisyourna.com^
 ||areyoutherenow.com^
 ##[href="http://dyxz.chexin.cc:81/index.html"],[href="/list/6.html"]
+|*/o.js
+||uerbgnkas.com^
 ||dh.chuyinlianmeng.top^
 ||ed.xjihzzc.com^
 ||soundsowell.com^
