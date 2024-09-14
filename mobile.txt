@@ -161,6 +161,8 @@ www.8hyyb.com,bahaoyy.com,bahaoys.com,soutiyi.com##UL.stui-extra.clearfix
 www.8hyyb.com,bahaoyy.com,bahaoys.com,soutiyi.com###sponsorAdDiv,.clearfix.stui-extra
 |api.chtcar.com/js/acf.js
 api.52wyb.com##DIV[id="ac_tips"]
+||mm-web.oss-accelerate.aliyuncs.com^
+||eagokasld.com^
 ||*.3rsppty.cn^
 ||*.3prndxd.cn^
 |*/js/tj.js
@@ -192,6 +194,8 @@ yjys01.com,yjys02.com##.nav-item.dropdown.d-md-flex.me-3
 ||wecounty-1300407952.file.myqcloud.com/app/js/2022/5/20220523145422816AGR.js
 yjys01.com,yjys02.com##BUTTON.btn.btn-sm.btn-danger.position-absolute.bottom-0.end-0
 yjys01.com,yjys02.com##DIV.jq-toast-wrap
+yjys01.com,yjys02.com##FOOTER.footer.container-fluid
+yjys01.com,yjys02.com##DIV.card.mt-3.download-wrapper
 @@||adsmind.gdtimg.com^
 ||mail.kguapp.com^
 ||whatisyourna.com^
