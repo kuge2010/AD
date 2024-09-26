@@ -226,6 +226,9 @@ greasyfork.org##DIV.ad-content
 ||172.247.24.170^
 ||qtb-tughjov-443.art^
 ||shangmei-web.oss-accelerate.aliyuncs.com^
-||appinstall-70fzjo84-1322983150.cos.accelerate.myqcloud.com^
 ||rljvl.uujasoo.cn^
-||jy996666.oss-cn-hongkong.aliyuncs.com^
+||plwkj.sc15hr8.com^
+||skgiym.tyhgijm99.vip^
+||cnzz.com^
+##[href*=".oss-cn-hongkong.aliyuncs.com"]
+##[href*=".cos.accelerate.myqcloud.com"]
