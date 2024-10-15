@@ -78,7 +78,7 @@ jx.xmflv.cc##SPAN#uzHN2
 @@||fy.wuye3d.com/*
 api.zhiduoduogx.com##DIV#ac_tips
 326t.com##.dropdown
-326t.com##[href="/list/6.html"]
+##[href="/list/6.html"]
 |*/static/js/xs3.js
 |*/static/xs3.js
 |*/static/js/xs2.js
@@ -142,8 +142,11 @@ a7wuwu8.com,wuwu5x6.com,3wuwu4b.com,wuwu1a2.com,fivecl.com##.is_mb,#popup,.foote
 ##[href*="/label/hot.html"]
 ##[href*="/vodtype/124.html"]
 ##[href="https://555app.vip"]
+##[href="https://bihex.shop/"]
 ##[href*=".com:9999"]
 ##[href*="https://555yy."]
+##[href="https://boxbc.club/"]
+##[href*="https://d1eckg82taf04m.cloudfront.net/"]
 |*/bgad.png
 ||apitestss.bihee.net/api_v3/ad/show
 ||*.meituan.net^
@@ -197,6 +200,7 @@ yjys01.com,yjys02.com,yjys05.com##DIV.card.mt-3.download-wrapper
 ||mail.kguapp.com^
 ||whatisyourna.com^
 ||areyoutherenow.com^
+##[href="http://dyxz.chexin.cc:81/index.html"],[href="/list/6.html"]
 |*/o.js
 ||uerbgnkas.com^
 ||dh.chuyinlianmeng.top^
@@ -228,6 +232,9 @@ greasyfork.org##DIV.ad-content
 ##[href*="https://plwkj."]
 ||plwkj.sc15hr8.com^
 ||plwkj.4waltzlogu.com^
-||154.39.66.64^
-||154.39.66.65^
-||154.39.66.70^
+||jyjpd.com^
+||uegsjnk.com^
+||lkyyd.com^
+||sd660.com^
+||ios.zjvhjgi-663-483-aliyun.vip^
+||adg-rouen.com^
