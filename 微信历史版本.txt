@@ -1,14 +1,15 @@
 微信历史版本
 https://github.com/lsp-007/wechat-android-history-versions
-
+https://github.com/DJB-Developer/wechat-android-history-versions
 Android平台
 软件版本 	发布日期 	下载地址
 微信 8.0.57 for Android 	(2025-03-18) 	https://dldir1v6.qq.com/weixin/android/weixin8057android2820_0x28003933_arm64.apk
 微信 8.0.57 for Android 	(2025-03-18) 	https://dldir1v6.qq.com/weixin/android/weixin8057android2820_0x28003932_arm64.apk
+微信 8.0.56 for Android √ 	(2025-01-09) 	https://dldir1v6.qq.com/weixin/android/weixin8056android2800_0x28003833_arm64.apk    MD5: 1c4fc0140d3b1c952f124a0ed6d54550 
 微信 8.0.56 for Android 	(2025-01-07) 	https://dldir1v6.qq.com/weixin/android/weixin8056android2800_0x280038f8_arm64_2.apk
 微信 8.0.56 for Android 	(2025-01-07) 	https://dldir1v6.qq.com/weixin/android/weixin8056android2800_0x280038f8_arm64_1.apk
-微信 8.0.56 for Android 	(2025-01-07) 	https://dldir1v6.qq.com/weixin/android/weixin8056android2800_0x2800383c_arm64.apk
-微信 8.0.56 for Android 	(2025-01-07) 	https://dldir1v6.qq.com/weixin/android/weixin8056android2800_0x28003832_arm64.apk
+微信 8.0.56 for Android 	(2025-01-20) 	https://dldir1v6.qq.com/weixin/android/weixin8056android2800_0x2800383c_arm64.apk  √MD5: 9b008aeeb07ed4706d3f7d8ee7a17a0b
+微信 8.0.56 for Android√ 	(2025-01-07) 	https://dldir1v6.qq.com/weixin/android/weixin8056android2800_0x28003832_arm64.apk    MD5: 4db89e7799ae3e550277ad46f4d250f9
 微信 8.0.55 for Android 	(2024-12-16) 	https://dldir1v6.qq.com/weixin/android/weixin8055android2780_0x28003734_arm64.apk
 微信 8.0.55 for Android 	(2024-12-16) 	https://dldir1v6.qq.com/weixin/android/weixin8055android2780_0x28003733_arm64.apk
 微信 8.0.54 for Android 	(2024-11-18) 	https://dldir1.qq.com/weixin/android/weixin8054android2760_0x28003636_arm64.apk
@@ -18,19 +19,19 @@ Android平台
 微信 8.0.51 for Android 	(2024-09-14) 	https://dldir1.qq.com/weixin/android/weixin8051android2720_0x28003334_arm64.apk
 微信 8.0.51 for Android 	(2024-09-14) 	https://dldir1.qq.com/weixin/android/weixin8051android2720_0x28003333_arm64_1.apk
 微信 8.0.51 for Android 	(2024-09-14) 	https://dldir1.qq.com/weixin/android/weixin8051android2720_0x28003332_arm64.apk
-微信 8.0.50 for Android 	(2024-07-02) 	https://dldir1.qq.com/weixin/android/weixin8050android2701_0x28003294_arm64.apk
-微信 8.0.50 for Android 	(2024-07-02) 	https://dldir1.qq.com/weixin/android/weixin8050android2701_0x2800323e_arm64.apk
-微信 8.0.50 for Android 	(2024-07-02) 	https://dldir1.qq.com/weixin/android/weixin8050android2701_0x2800323c_arm64.apk
-微信 8.0.50 for Android 	(2024-07-02) 	https://dldir1.qq.com/weixin/android/weixin8050android2700_0x2800323c_arm64.apk
-微信 8.0.50 for Android 	(2024-07-02) 	https://dldir1.qq.com/weixin/android/weixin8050android2620_0x2800323c_arm64.apk
+微信 8.0.50 for Android 	(2024-09-04) 	https://dldir1.qq.com/weixin/android/weixin8050android2701_0x28003294_arm64.apk        MD5: a8f7212008cfe1af87557fb7c7ed6e46
+微信 8.0.50 for Android 	(2024-07-10) 	https://dldir1.qq.com/weixin/android/weixin8050android2701_0x2800323e_arm64.apk        MD5: e866cf5dddf21387b735af4c8cde62f9
+微信 8.0.50 for Android 	(2024-07-03) 	https://dldir1.qq.com/weixin/android/weixin8050android2701_0x2800323c_arm64.apk      √MD5: efd32c46103af84f745b4de4e675a4bd
+微信 8.0.50 for Android 	(2024-07-02) 	https://dldir1.qq.com/weixin/android/weixin8050android2700_0x2800323c_arm64.apk        MD5: 533655693d5ab3dc8a454a49600f16a7
+微信 8.0.50 for Android √	(2024-07-01) 	https://dldir1.qq.com/weixin/android/weixin8050android2620_0x2800323c_arm64.apk        MD5: d2a1588ba1d7853700958d132ede690b
 微信 8.0.49 for Android 	(2024-04-22) 	https://dldir1.qq.com/weixin/android/weixin8049android2600_0x2800313d_arm64.apk
 微信 8.0.49 for Android 	(2024-04-22) 	https://dldir1.qq.com/weixin/android/weixin8049android2600_0x28003133_arm64.apk
-微信 8.0.48 for Android 	(2024-03-18) 	https://dldir1.qq.com/weixin/android/weixin8048android2580_0x28003036_arm64.apk
-微信 8.0.48 for Android 	(2024-03-18) 	https://dldir1.qq.com/weixin/android/weixin8048android2580_0x28003035_arm64.apk
-微信 8.0.48 for Android 	(2024-03-18) 	https://dldir1.qq.com/weixin/android/weixin8048android2580_0x28003033_arm64.apk
+微信 8.0.48 for Android 	(2024-03-22) 	https://dldir1.qq.com/weixin/android/weixin8048android2580_0x28003036_arm64.apk        MD5: 3cf555988a3993c29467766956e9d3c5
+微信 8.0.48 for Android 	(2024-03-21) 	https://dldir1.qq.com/weixin/android/weixin8048android2580_0x28003035_arm64.apk      √MD5: 53dc8fd8cd9237424fd07edb426b6ccf
+微信 8.0.48 for Android 	(2024-03-18)√ 	https://dldir1.qq.com/weixin/android/weixin8048android2580_0x28003033_arm64.apk        MD5: b4badaf0d7cd5ac0de81747e730b4ed9
 微信 8.0.47 for Android 	(2024-02-01) 	https://dldir1.qq.com/weixin/android/weixin8047android2560_0x28002f36_arm64.apk
 微信 8.0.47 for Android 	(2024-02-01) 	https://dldir1.qq.com/weixin/android/weixin8047android2560_0x28002f30_arm64.apk
-微信 8.0.46 for Android 	(2024-01-23) 	https://dldir1.qq.com/weixin/android/weixin8046android2540_0x28002e34_arm64.apk
+微信 8.0.46 for Android 	(2024-01-23) 	https://dldir1.qq.com/weixin/android/weixin8046android2540_0x28002e34_arm64.apk        MD5: 91367cb6bfbc99e806dc125b2595afce
 微信 8.0.45 for Android 	(2024-01-02) 	https://dldir1.qq.com/weixin/android/weixin8045android2521_0x28002d34_arm64_1.apk
 微信 8.0.45 for Android 	(2024-01-02) 	https://dldir1.qq.com/weixin/android/weixin8045android2520_0x28002d33_arm64.apk
 微信 8.0.44 for Android 	(2023-12-04) 	https://dldir1.qq.com/weixin/android/weixin8044android2502_0x28002c3f_arm64.apk
