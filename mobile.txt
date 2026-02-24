@@ -148,6 +148,7 @@ www.y81s.com###hot-words
 www.y81s.com##DIV.bdsharebuttonbox
 www.y81s.com##.textbg1
 www.y81s.com###cpolk,#cpoli,#cpolh
+www.y81s.com##DIV#header
 ||*/static/playcon1.js
 ||qrlm40.com^
 ||1007gc.f2pu0z.com^
@@ -167,7 +168,6 @@ dyxs.de,dyxs45.com,hkys2.cc##.open.popup-ts.popup,.app-text,#friendlink,.app.wra
 hkys2.cc##.player-rma.rm-twoa.rm-list.top
 ||*/statics/js/jq.js
 ||*/statics/js/qrcode.min.js
-||*/statics/js/clipboard.min.js
 ||*/statics/js/home.js
 hkys2.cc##.player-tl
 div###rm-float,#footer
@@ -182,4 +182,4 @@ div###rm-float,#footer
 |https://www.y81s.com/js/topinfo.js
 ||www.q5m9n3b7v2.cc^
 ||bdimg.share.baidu.com^
-##.bdsharebuttonbox
+##div.bdsharebuttonbox
