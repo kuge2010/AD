@@ -150,6 +150,14 @@ www.y81s.com###hot-words
 www.y81s.com##DIV.bdsharebuttonbox
 www.y81s.com##.textbg1
 www.y81s.com###cpolk,#cpoli,#cpolh
+www.y81s.com##LI#nav_trailer,LI#nav_course,LI#nav_video,LI#nav_mv
+www.y81s.com##UL#menulist
+www.y81s.com##DIV#nav-under
+www.y81s.com##LI#nav_top
+www.y81s.com##LI#nav_last
+www.y81s.com##LI#nav_hot
+www.y81s.com##LI#tv13
+www.y81s.com##UL.listorder.clearfix
 ||*/static/playcon1.js
 |https://www.y81s.com/player/tvc.xml
 |https://www.clarity.ms/tag/k33536mafq
