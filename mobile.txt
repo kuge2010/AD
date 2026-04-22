@@ -158,6 +158,7 @@ www.y81s.com##LI#nav_last
 www.y81s.com##LI#nav_hot
 www.y81s.com##LI#tv13
 www.y81s.com##UL.listorder.clearfix
+|https://www.y81s.com/js/topinfo.js
 ||*/static/playcon1.js
 |https://www.y81s.com/player/tvc.xml
 |https://www.clarity.ms/tag/k33536mafq
@@ -175,6 +176,7 @@ hkys2.cc##.player-rma.rm-twoa.rm-list.top
 ||*/statics/js/home.js
 hkys2.cc##.player-tl
 hkys2.cc##DIV.shortcuts-fixed
+hkys2.cc##DIV.shortcuts-m-overlay
 div###rm-float,#footer
 ##[href^="https://at.umtrack.com/GjuqiC"]
 ##.player-info > .rm-list.rm-twoa.player-rma
@@ -185,3 +187,5 @@ div###rm-float,#footer
 |https://ssl.p.jwpcdn.com/player/v/8.9.3/translations/zh.json
 ||bdimg.share.baidu.com^
 ##div.bdsharebuttonbox
+@@||sp1.baidu.com^
+@@||ext.baidu.com^
