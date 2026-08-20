@@ -69,7 +69,7 @@ douyin.com,live.douyin.com##.I6ivXmaS
 |*/static/foot.js
 |*/static/feng.js
 |*/static/js/tixing.js
-##[href*="https://t.52dajia.com"]
+##[href="https://t.52dajia.com"]
 |*/k/133938
 |*/k/132659
 |*/static/jquery.js
@@ -162,10 +162,13 @@ div###rm-float,#footer
 ||*/linksubmit/push.js
 hkys2.cc##DIV.popup.popup-tips.popupicon.open
 ||*/statics/recommend/*.gif
-|https://www.xianrail.com/static/img/logo_footer_new05134.783955d.png
-gf.qytechs.cn###gf-overlay
 ||tf.hfjgqadyq.top^
 ||*/ads/*
-##.home-spotlight-inner,.home-spotlight,.home-notice-band
-##.channel-heading.page-heading,.floating-tools,.home-scoreboard-band,.home-hot-band,.home-schedule-band
-##.footer-legal,.header-nav-inner
+##.home-spotlight,.home-notice-band
+##.home-spotlight-inner,.channel-heading.page-heading,.floating-tools,.home-scoreboard-band,.home-hot-band,.home-schedule-band
+##.footer-legal,.header-nav-bar,.header-nav-inner
+##.catalog-toolbar
+||*/addons/*
+|*/traffic/pv
+||tu.chexin.cc^
+##.detail-section:last-child,.desktop-hot-ranking
