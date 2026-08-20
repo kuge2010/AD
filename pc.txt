@@ -19,6 +19,7 @@
 github.xiaohei.me##.float-container
 greasyfork.org###home-ad
 gf.qytechs.cn###custom-popup
+gf.qytechs.cn###gf-overlay
 ||*/fingerprint.min.js
 ||netvideohunter.com/*.js
 www.yangshipin.cn##.winE
@@ -154,6 +155,7 @@ www.tianqi.com##.zhishubox.wrap1100,.app_erweima
 5524278.vip,555dy7.com,5dy1.top,www.5kp8.top,www.5dy9.top##.max-sm\:px-2.gap-y-6.top-48.mx-auto.items-center.justify-center.flex.w-screen.md\:mt-0.container
 ||apitestss.bihee.net/api_v3/ad/show
 |*/bgad.png
+##[href*="id=WZ-555dianying"]
 ##[href*="bh14254.cc"]
 ##[href*="d1.550375.vip"]
 ##[href="/label/week.html"]
@@ -166,7 +168,6 @@ www.tianqi.com##.zhishubox.wrap1100,.app_erweima
 ##div.c-gPKXm:nth-of-type(4)
 ##li.navbar-item.swiper-slide:nth-of-type(16)
 ##[href*=".com:9999"]
-|*/bgad.png
 ||*.meituan.net
 ||api.ipify.org
 |*/assets/plugin/jump/*
@@ -198,6 +199,10 @@ douyin.com##.zfoAilgt.mPWahmAI,.JsAsIOEV,.wallPaperBtn.nH4jBlTd,.text-clarity-ne
 ||live.douyin.com/service-worker.js$script
 ! 播放器内操作屏幕提示~好烦人
 douyin.com,live.douyin.com##.I6ivXmaS
+www.douyin.com##.douyin_login_new_class
+www.douyin.com##.GzPW6isY.oMpq4HiN
+douyin.com##div[id^="login-full-panel-"]
+douyin.com##div[class*="login-mask"]
 support.hp.com###chatbotToronto,.unstyled,.grecaptcha-logo,.grecaptcha-badge
 ||*/static/tixing.js
 ||*/static/js/deny.js
@@ -214,7 +219,7 @@ support.hp.com###chatbotToronto,.unstyled,.grecaptcha-logo,.grecaptcha-badge
 ||*/static/feng.js
 ||*/static/jquery.js
 |*/static/js/tixing.js
-##[href="https://t.52dajia.com"]
+##[href*="https://t.52dajia.com"]
 |*/k/133938
 |*/k/132659
 |*/vj1/*
@@ -240,25 +245,7 @@ support.hp.com###chatbotToronto,.unstyled,.grecaptcha-logo,.grecaptcha-badge
 ##.detail.stui-player__detail > div
 ##.stui-pannel.stui-pannel-bg.clearfix > div[style]
 ##DIV.carousel.carousel_center.col-pd.flickity-page.flickity-enabled.is-draggable
-##[href*="/gbook."]
-||156.247.9.204^
-||pv.whpfvrt.cn
-||pm.986qka.cn
-||es.kmihknj.cn^
-xlys01.com,xlys02.com##div.col-12 > .card,#ad-float
-xlys01.com,xlys02.com##center
-xlys01.com,xlys02.com##.p-0.bg-azure.ribbon-top.ribbon-bookmark.ribbon,.border-top.container-fluid.footer,.col-md-7,.d-xxl-block.d-xl-block.d-lg-block.d-md-block.d-none.col-md-5,.px-3.nav-link,.order-md-last.flex-row.navbar-nav > .dropdown.nav-item
-xlys01.com,xlys02.com##div.download-list.mt-3.card:nth-of-type(6)
-xlys01.com,xlys02.com##.overflow-hidden.mt-3.card,.mb-5.mt-3.card,.my-3.card,.text-orange.cursor-pointer,.end-0.bottom-0.position-absolute.btn-danger.btn-sm.btn
-xlys01.com,xlys02.com##.show.fade.modal-blur.modal,.show.fade.modal-backdrop,.jq-toast-wrap,.p-0.ribbon-top.ribbon,.bg-danger-lt.nav-link,.dropdown-toggle.nav-link,.snowflakes
-xlys01.com,xlys02.com##.container-xl > .navbar-collapse.collapse
-||*/v4/js/tabler.min.js
-##[href="/aiad"]
-##[href*="/qiupian"]
-##[href="https://www.mp4er.cc"]
-xlys01.com,xlys02.com##.artplayer-plugin-ads,.container-fluid.footer,.download-list.mt-3.card,.mt-1
-||wecounty-1300407952.file.myqcloud.com/app/js/2022/5/20220523145422816AGR.js
-|*/zzzzz
+##[href*="/gbook"]
 www.iqiyi.com##.header__ele,#\31 000000000717.ad-tl
 @@||71edge.com/videos/other/202$xhr
 tv.sohu.com##.pc-login-guide
@@ -271,8 +258,6 @@ m0.mail.sina.com.cn##.extendAd,.connMod,.homepgRight,.userVeil,.activityBanner
 github.com,kkgithub.com##.d-lg-inline-block.d-block.py-lg-2.py-3.px-lg-2.px-0.no-underline.HeaderMenu-link
 wenku.baidu.com##.chat-show.user-select-auto.small-app-right
 ||bd106.vcowrk.cn^
-www.douyin.com##.douyin_login_new_class
-www.douyin.com##.GzPW6isY.oMpq4HiN
 dyxs.de,dyxs45.com,hkys2.cc##div.open.popup-ts.popup,.app-text,#friendlink,.app.wrapper
 ##.header-logo,.index-logo,.video-info-share,.scroll-domain-prompt.scroll-box,li.swiper-slide.nav-menu-item:nth-of-type(8),.load_tips,.load_logo,.extra-tips
 ||static.cloudflareinsights.com/beacon.min.js
@@ -284,7 +269,6 @@ dyxs.de,dyxs45.com,hkys2.cc##div.open.popup-ts.popup,.app-text,#friendlink,.app.
 hkys2.cc##.player-rma.rm-twoa.rm-list.top
 ||*/statics/js/jq.js
 ||*/statics/js/qrcode.min.js
-||*/statics/js/clipboard.min.js
 ||*/statics/js/home.js
 hkys2.cc##.player-tl
 div###rm-float,#footer
@@ -294,3 +278,16 @@ div###rm-float,#footer
 ##.player-info > .rm-list.rm-twoa.player-rma
 ##.bdshare-button-style0-16.bdsharebuttonbox
 ##div > .font_888
+chat.baidu.com##.cos-tooltip-content
+www.doubao.com###activity-entrance-popup-root
+www.kkys05.com###modal-anc
+www.kkys05.com##.iziModal-overlay,.more-download-link,.footer
+www.kkys05.com##.swiper-backface-hidden.swiper-horizontal.swiper-initialized.myCarouselSwiper.swiper
+wenxin.baidu.com##.cos-tooltip-content
+ww.326t.com##[href="http://meizi.qfffbw.cn/index.html"]
+##[href^="/channel/ethics"]
+||*/ads/*
+||*/addons/*
+|*/traffic/pv
+||tf.hfjgqadyq.top^
+||tu.chexin.cc^
