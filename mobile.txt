@@ -165,10 +165,13 @@ hkys2.cc##DIV.popup.popup-tips.popupicon.open
 ||tf.hfjgqadyq.top^
 ||*/ads/*
 ##.home-spotlight,.home-notice-band
-##.home-spotlight-inner,.channel-heading.page-heading,.floating-tools,.home-scoreboard-band,.home-hot-band,.home-schedule-band
-##.footer-legal,.header-nav-bar,.header-nav-inner
+##.home-spotlight-inner,.floating-tools,.home-scoreboard-band,.home-hot-band,.home-schedule-band
+##.footer-legal
 ##.catalog-toolbar
 ||*/addons/*
 |*/traffic/pv
 ||tu.chexin.cc^
 ##.detail-section:last-child,.desktop-hot-ranking
+##.header-nav-bar>.header-nav-inner>.mobile-header-only
+##.breadcrumbs,.segmented
+@@##.channel-heading.page-heading
