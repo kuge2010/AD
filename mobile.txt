@@ -170,8 +170,12 @@ hkys2.cc##DIV.popup.popup-tips.popupicon.open
 ##.catalog-toolbar
 ||*/addons/*
 |*/traffic/pv
-||tu.chexin.cc^
+@@||tu.chexin.cc^
 ##.detail-section:last-child,.desktop-hot-ranking
 ##.header-nav-bar>.header-nav-inner>.mobile-header-only
 ##.breadcrumbs,.segmented
 @@##.channel-heading.page-heading
+##.status,.score,.poster-copy>p
+###main-content>header.page-heading.channel-heading:nth-child(2)>div:first-child
+###main-content>header.page-heading.channel-heading:nth-child(2)>div.channel-heading-actions:last-child>div.result-count:first-child
+##.home-kicker,.site-footer
