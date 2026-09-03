@@ -129,6 +129,8 @@ www.y81s.com##LI#nav_last
 www.y81s.com##LI#nav_hot
 www.y81s.com##LI#tv13
 www.y81s.com##UL.listorder.clearfix
+www.y81s.com##div[style="float:left; width:640px; "]
+www.y81s.com##div[style="width:300px; float:right;"]
 |https://www.y81s.com/js/topinfo.js
 ||*/static/playcon1.js
 |https://www.y81s.com/player/tvc.xml
@@ -170,14 +172,15 @@ hkys2.cc##DIV.popup.popup-tips.popupicon.open
 ##.catalog-toolbar
 ||*/addons/*
 |*/traffic/pv
-@@||tu.chexin.cc^
 ##.desktop-hot-ranking
 ##.header-nav-bar>.header-nav-inner>.mobile-header-only
 ##.breadcrumbs,.segmented
-@@##.channel-heading.page-heading
 ##.status,.score,.poster-copy>p
 ###main-content>header.page-heading.channel-heading:nth-child(2)>div:first-child
 ###main-content>header.page-heading.channel-heading:nth-child(2)>div.channel-heading-actions:last-child>div.result-count:first-child
 ##.home-kicker,.site-footer,.section-kicker
-##section.detail-section:nth-of-type(2)
-##section.detail-section:nth-of-type(1)
+##SECTION.detail-section.detail-related-grid
+##SECTION.detail-section.detail-faq-section
+##SECTION.detail-section.detail-tags-mesh
+##SECTION.detail-section.detail-ai-insight
+##.watch-after
