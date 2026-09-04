@@ -54,8 +54,8 @@ douyin.com,live.douyin.com##.I6ivXmaS
 ||bytegoofy.com/obj/slardar/fe/sdk-web/plugins/common-monitors.$script,domain=douyin.com
 ||ibytedapm.com/slardar/fe/sdk-web/plugins/common-monitors.$script,domain=douyin.com
 326t.com##.dropdown
-326t.com,heihutv.com##[href="/list/6.html"]
-##[href^="http://meizi.qfffbw.cn/index.html"]
+326t.com##[href="/list/6.html"]
+##a[href="https://meizi.qfffbw.cn/index.html"]
 |*/static/js/xs3.js
 |*/static/xs3.js
 |*/static/js/xs2.js
@@ -183,4 +183,6 @@ hkys2.cc##DIV.popup.popup-tips.popupicon.open
 ##SECTION.detail-section.detail-faq-section
 ##SECTION.detail-section.detail-tags-mesh
 ##SECTION.detail-section.detail-ai-insight
+##SECTION.detail-section.detail-metadata
+##DIV.detail-schedule-guide
 ##.watch-after
