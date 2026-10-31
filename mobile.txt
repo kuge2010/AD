@@ -85,7 +85,7 @@ www.y81s.com###footer,.links,#header
 |https://www.y81s.com/js/topinfo.js
 www.y81s.com##div[style="width:300px; float:right;"]
 www.y81s.com###cpolk,.tlisth,.atbutton,.listorder
-www.y81s.com###cpolh,#cpoli
+www.y81s.com###cpolh,#cpoli,#cpolg
 www.y81s.com##.bdsharebuttonbox
 www.y81s.com##span[style="display:block; float:left;"]
 www.y81s.com##div[style="float:left; width:640px; "]
@@ -123,12 +123,18 @@ div###rm-float,#footer
 ||tf.hfjgqadyq.top^
 ||*/ads/*
 hkys2.cc##DIV.popup.popup-tips.popupicon.open
-hkys2.cc##.module-tab,.module-side,.load-all
+hkys2.cc##.module-line-list,.more,.video-info-aux,.video-player-handle,.module-tab
 hkys2.cc##.module-side,.load-all
 hkys2.cc##div.module-wrapper.module:nth-of-type(4)
 hkys2.cc##div.module:nth-of-type(5)
 hkys2.cc##div.module:nth-of-type(6)
 hkys2.cc##div.module:nth-of-type(1)
+hkys2.cc##div.module-bg.module:nth-of-type(3)
+hkys2.cc##div.module-bg.module:nth-of-type(4)
+hkys2.cc##div.module-bg.module:nth-of-type(7)
+hkys2.cc##div.module-bg.module:nth-of-type(8)
+hkys2.cc##div.module-bg.module:nth-of-type(9)
+hkys2.cc##.module-type.module-footer
 ##.home-spotlight,.home-notice-band
 ##.home-spotlight-inner,.floating-tools,.home-scoreboard-band,.home-hot-band,.home-schedule-band
 ##.footer-legal,.watch-after
@@ -154,3 +160,9 @@ hkys2.cc##div.module:nth-of-type(1)
 ##.channel-guide-section,.channel-faq-section
 ##button[title="反馈当前播放问题"]
 ##button[title="分享当前播放页"]
+##button[data-source-name="TT"]
+##button[data-source-name="量子"]
+##.watch-source-tabs,.watch-source-status,.source-status,.text-right
+www.zawxw.com##.m-footer,.stui-extra
+|https://www.zawxw.com/statics/img/load.gif
+m.baidu.com###page-copyright
